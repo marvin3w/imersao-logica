@@ -85,3 +85,24 @@ A Lógica clássica segue uma progressão natural: primeiro você precisa entend
 ### M04 — Raciocínio Indutivo e Crítica Argumentativa
 - 54 Argumento indutivo
 - 55 Princípios e regras da indução
+
+## Repositório publicado
+
+https://github.com/marvin3w/imersao-logica
+
+## Mapa documento → aula
+
+| Doc | Aula(s) |
+|-----|---------|
+| M00-00 | 03 |
+| M01-01 | 04 |
+| M01-02 | 05 |
+| M01-03 | 06 |
+| M01-04 | 07 |
+| M01-05 | 08-09 |
+| M01-06 | 10 |
+| M01-07 | 11-12 |
+| M01-08 | 13 |
+| M02-01 … M02-21 | 14-36 |
+| M03-01 … M03-17 | 37-53 |
+| M04-01 … M04-02 | 54-55 |
