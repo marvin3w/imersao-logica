@@ -1,5 +1,17 @@
 # [02-20] Verdade Lógica, Ontológica e Moral
 
+
+<!-- nav-sequencial -->
+> ← [Proposições Verdadeiras, Falsas e Predicativas](02-19-Proposicoes-Verdade-Predicativas.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Estados da Inteligência Diante da Verdade](02-21-Estados-Inteligencia-Verdade.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Alguém acredita sinceramente em informação falsa e a repete com honestidade. Está mentindo? Logicamente, enuncia falsidade; moralmente, pode estar falando o que pensa. Confundir os três tipos de verdade gera injustiça (acusar mentira onde há erro) ou complacência (aceitar "sinceridade" como substituto de correção).
@@ -55,10 +67,10 @@ Ser finito participa do ser de modo limitado; verdade ontológica em criaturas �
 Verdade moral exige falar o que se pensa; não dispensa dever de buscar verdade lógica antes de falar. Ignorância vencível + discurso sincero ainda pode causar dano. Prudência epistémica complementa integridade moral.
 
 ## Conexões
-
-- **Anterior:** [02-19 — Verdade Predicativas](02-19-Proposicoes-Verdade-Predicativas.md)
-- **Próximo:** [02-21 — Estados da Inteligência](02-21-Estados-Inteligencia-Verdade.md)
+- **Anterior:** [Proposições Verdadeiras, Falsas e Predicativas](02-19-Proposicoes-Verdade-Predicativas.md)
+- **Próximo:** [Estados da Inteligência Diante da Verdade](02-21-Estados-Inteligencia-Verdade.md)
 - **Referência:** Tomás de Aquino, *De Veritate* q.1; relatorio-exaustivo, Aulas 35-36
+
 
 ## Verdade moral sem verdade lógica: caso clínico
 

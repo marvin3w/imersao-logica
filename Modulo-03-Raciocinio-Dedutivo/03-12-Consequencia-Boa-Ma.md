@@ -1,5 +1,17 @@
 # [03-12] Consequência Boa e Má
 
+
+<!-- nav-sequencial -->
+> ← [Princípios e Regras do Silogismo Simples](03-11-Principios-Regras-Silogismo-Simples.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Tipos de Silogismo](03-13-Tipos-de-Silogismo.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Alguém apresenta um argumento elegante que leva a uma conclusão absurda. Outro usa retórica brilhante para encobrir um salto lógico. A distinção entre **consequência boa** e **consequência má** nomeia exatamente isso: a conclusão segue *de fato* das premissas, ou apenas *parece* seguir?
@@ -62,10 +74,10 @@ Aristóteles distingue **análise lógica** (forma) de **crítica material** (co
 Consequência **má** é falácia **formal**. Há também falácias **informais** (ad hominem, generalização apressada) que não violam silogismo algum porque nem chegam a estrutura clara. O M03 foca nas formais; o M04 trata crítica de indução (informal em parte). Ambas são necessárias para argumentação saudável.
 
 ## Conexões
-
-- **Anterior:** [03-11 — Princípios e Regras do Silogismo Simples](03-11-Principios-Regras-Silogismo-Simples.md)
-- **Próximo:** [03-13 — Tipos de Silogismo](03-13-Tipos-de-Silogismo.md)
+- **Anterior:** [Princípios e Regras do Silogismo Simples](03-11-Principios-Regras-Silogismo-Simples.md)
+- **Próximo:** [Tipos de Silogismo](03-13-Tipos-de-Silogismo.md)
 - **Referência clássica:** Aristóteles, *Refutações Sofísticas*; Cicerão, *De Inventione*
+
 
 ## Auto-reflexão
 

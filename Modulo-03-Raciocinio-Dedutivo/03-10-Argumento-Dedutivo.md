@@ -1,5 +1,17 @@
 # [03-10] Argumento Dedutivo
 
+
+<!-- nav-sequencial -->
+> ← [Tipos de Inferência](03-09-Tipos-de-Inferencia.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Princípios e Regras do Silogismo Simples](03-11-Principios-Regras-Silogismo-Simples.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Um argumento pode ter forma perfeita e premissas absurdas: "Todo unicórnio voa. Meu gato é unicórnio. Logo, meu gato voa." A conclusão *segue* das premissas, mas o argumento não nos convence porque as premissas são falsas. Separar **validade** de **solidez** é o que distingue quem analisa argumentos de quem apenas reage ao conteúdo.
@@ -59,11 +71,11 @@ A ordem importa: criticar premissas antes de validar forma dispersa energia. Um 
 Enthymemas ([03-09](03-09-Tipos-de-Inferencia.md)) são deduções com premissa omitida. Na retórica cotidiana, quase todo "logo" esconde uma premissa. Reconstruí-la é cortesia intelectual: você entende o interlocutor *no melhor caso* antes de refutar.
 
 ## Conexões
-
-- **Anterior:** [03-09 — Tipos de Inferência](03-09-Tipos-de-Inferencia.md)
-- **Próximo:** [03-11 — Princípios e Regras do Silogismo Simples](03-11-Principios-Regras-Silogismo-Simples.md)
+- **Anterior:** [Tipos de Inferência](03-09-Tipos-de-Inferencia.md)
+- **Próximo:** [Princípios e Regras do Silogismo Simples](03-11-Principios-Regras-Silogismo-Simples.md)
 - **Adiante:** Consequência boa e má em [03-12](03-12-Consequencia-Boa-Ma.md)
 - **Referência clássica:** Aristóteles, *Analíticos Próprios*, I.1-4
+
 
 ## Auto-reflexão
 

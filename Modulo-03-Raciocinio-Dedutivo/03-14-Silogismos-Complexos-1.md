@@ -1,5 +1,17 @@
 # [03-14] Silogismos Complexos (1)
 
+
+<!-- nav-sequencial -->
+> ← [Tipos de Silogismo](03-13-Tipos-de-Silogismo.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Silogismos Complexos (2)](03-15-Silogismos-Complexos-2.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Nem todo raciocínio usa proposições categóricas ("Todo S é P"). Muitos argumentos do dia a dia são **condicionais**: "Se chover, cancelamos o piquenique. Choveu. Logo, cancelamos." Esse encadeamento é válido, mas não é silogismo categórico. É **silogismo hipotético**. Ignorá-lo deixa um terço dos argumentos reais fora da análise lógica.
@@ -67,11 +79,11 @@ Numa conversa familiar: "Se você terminou a lição, pode jogar. Você está jo
 "Se A então B. Se B então C. Se C então D. A. Logo D." Cada passo é modus ponens. Cadeias longas aparecem em protocolos ("Se autenticado, então autorizado; se autorizado, então acesso…"). Verifique cada condicional: uma ruptura no meio invalida o destino final.
 
 ## Conexões
-
-- **Anterior:** [03-13 — Tipos de Silogismo](03-13-Tipos-de-Silogismo.md)
-- **Próximo:** [03-15 — Silogismos Complexos (2)](03-15-Silogismos-Complexos-2.md) (disjuntivo e dilema)
+- **Anterior:** [Tipos de Silogismo](03-13-Tipos-de-Silogismo.md)
+- **Próximo:** [Silogismos Complexos (2)](03-15-Silogismos-Complexos-2.md)
 - **Retorno:** Proposições compostas em M02
 - **Referência clássica:** Pseudo-Robert Kilwardby; Boécio, *De Syllogismo Hypothetico*
+
 
 ## Auto-reflexão
 

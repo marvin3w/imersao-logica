@@ -1,5 +1,17 @@
 # [03-00] Módulo 3 — Raciocínio Dedutivo
 
+
+<!-- nav-sequencial -->
+> ← [Estados da Inteligência Diante da Verdade](../Modulo-02-Juizo/02-21-Estados-Inteligencia-Verdade.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Formas AEIO](03-01-Formas-AEIO.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 <!-- notebooklm-recursos -->
 > ### Recursos de Aprendizado — NotebookLM
 > Quiz, podcast, mapa mental e cartões didáticos deste módulo.
@@ -64,11 +76,11 @@ Ao concluir este módulo, você deve conseguir:
 Na próxima discussão em que alguém diga "logo" ou "portanto", pause e pergunte: quantas premissas? Quais termos? A conclusão segue *necessariamente*? Esse hábito transforma o M03 de teoria em ferramenta. Você não precisa memorizar todos os modos mnemotécnicos de cor; precisa saber *onde* procurar quando a forma parece estranha.
 
 ## Conexões
-
-- **Anterior:** [M02 — Juízo](../Modulo-02-Juizo/) (proposições, formas AEIO introduzidas)
-- **Próximo:** [03-01 — Formas AEIO](03-01-Formas-AEIO.md) (primeira aula do módulo)
+- **Anterior:** [Estados da Inteligência Diante da Verdade](../Modulo-02-Juizo/02-21-Estados-Inteligencia-Verdade.md)
+- **Próximo:** [Formas AEIO](03-01-Formas-AEIO.md)
 - **Adiante:** [M04 — Indução e Crítica](../Modulo-04-Inducao-Critica/04-00-Visao-Geral.md) (complemento: generalização a partir de casos)
 - **Referência clássica:** Aristóteles, *Organon* (*Analíticos Próprios* e *Tópicos*)
+
 
 ## Auto-reflexão
 

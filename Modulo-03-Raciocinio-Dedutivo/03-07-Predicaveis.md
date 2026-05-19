@@ -1,5 +1,17 @@
 # [03-07] Predicáveis
 
+
+<!-- nav-sequencial -->
+> ← [Princípios Lógicos Primeiros](03-06-Principios-Logicos-Primeiros.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Raciocínio](03-08-Raciocinio.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Numa conversa, alguém diz: "O ser humano é um animal." Outro corrige: "Animal é o gênero do homem." Uma terceira pessoa pergunta: "Mas 'risível' também se aplica ao homem; por que não é a essência?" Sem os **predicáveis**, essas distinções ficam confusas. Predicáveis classificam *como* um conceito se predica de outro: como gênero, espécie, diferença, propriedade ou acidente.
@@ -57,11 +69,11 @@ Numa escolha de escola: "Esta instituição é particular" (acidente ou diferen�
 Argumentar a partir de acidente como se fosse essência é falácia informal clássica: "Fulano nasceu rico, logo é competente." Riqueza (acidente) não define competência (outro predicado). Reconhecer predicáveis separa *descrição* de *definição* e evita julgamentos que confundem circunstância com natureza.
 
 ## Conexões
-
-- **Anterior:** [03-06 — Princípios Lógicos Primeiros](03-06-Principios-Logicos-Primeiros.md)
-- **Próximo:** [03-08 — Raciocínio](03-08-Raciocinio.md)
+- **Anterior:** [Princípios Lógicos Primeiros](03-06-Principios-Logicos-Primeiros.md)
+- **Próximo:** [Raciocínio](03-08-Raciocinio.md)
 - **Retorno:** [01-03 — O Conceito](../Modulo-01-Concepcao/01-03-Conceito.md) (gênero, espécie, essência)
 - **Referência clássica:** Porfírio, *Isagoge*; Aristóteles, *Tópicos*, I
+
 
 ## Auto-reflexão
 

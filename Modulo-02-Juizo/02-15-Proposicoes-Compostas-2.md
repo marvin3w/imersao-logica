@@ -1,5 +1,17 @@
 # [02-15] Proposições Compostas (II) — Exclusiva, Exceptiva e Reduplicativa
 
+
+<!-- nav-sequencial -->
+> ← [Proposições Compostas (I) — Conjuntiva, Disjuntiva e Condicional](02-14-Proposicoes-Compostas-1.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Proposições Afirmativas e Negativas](02-16-Proposicoes-Afirmativas-Negativas.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Apenas os espartanos são corajosos." "Todos fugiram, exceto os atenienses." "O homem, enquanto animal, precisa de alimento." Três construções que parecem proposições simples, mas escondem **múltiplos juízos**. Sem decompor, silogismos e refutações miram alvo errado.
@@ -57,10 +69,10 @@ Campanha: "Somente nossa marca oferece garantia vitalícia." Decomponha antes de
 "O médico, enquanto médico, deve salvar vidas" — aspecto funcional da profissão. "O médico, enquanto pai, pode priorizar filho" — aspecto pessoal. Conflito aparente dissolve-se quando suposições reduplicativas são explicitadas: dois juízos sobre aspectos distintos do mesmo sujeito.
 
 ## Conexões
-
-- **Anterior:** [02-14 — Proposições Compostas 1](02-14-Proposicoes-Compostas-1.md)
-- **Próximo:** [02-16 — Afirmativas e Negativas](02-16-Proposicoes-Afirmativas-Negativas.md)
+- **Anterior:** [Proposições Compostas (I) — Conjuntiva, Disjuntiva e Condicional](02-14-Proposicoes-Compostas-1.md)
+- **Próximo:** [Proposições Afirmativas e Negativas](02-16-Proposicoes-Afirmativas-Negativas.md)
 - **Referência:** relatorio-exaustivo, Aula 29 (proposições implicitamente compostas)
+
 
 ## Exceptiva em direito
 

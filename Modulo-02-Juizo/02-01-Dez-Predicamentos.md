@@ -1,5 +1,17 @@
 # [02-01] Os Dez Predicamentos
 
+
+<!-- nav-sequencial -->
+> ← [Módulo 2 — Juízo (Segunda Operação do Intelecto)](02-00-Visao-Geral.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [O Termo](02-02-Termo.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Alguém diz: "Pedro é alto, está em São Paulo, correu ontem e usa terno." Cada informação parece descrever Pedro, mas descrevem de modos diferentes. "Alto" fala de *quanto* ele mede; "em São Paulo" fala de *onde* está; "correu" fala de *o que fez*; "terno" fala de *como* se apresenta. Misturar esses modos numa única análise lógica gera confusão: você pode negar "Pedro é alto" sem negar que Pedro existe.
@@ -53,11 +65,11 @@ Numa reunião de planejamento, alguém propõe: "O projeto é grande, urgente, d
 Separar os predicamentos evita que a equipe discuta *urgência* quando o problema real é *relação de dependência* com o fornecedor. Cada predicamento exige tipo diferente de evidência.
 
 ## Conexões
-
-- **Anterior:** [01-03 — Conceito](../Modulo-01-Concepcao/01-03-Conceito.md) (conceitos que os predicados expressam)
-- **Próximo:** [02-02 — Termo](02-02-Termo.md) (palavras que entram em proposições)
+- **Anterior:** [Módulo 2 — Juízo (Segunda Operação do Intelecto)](02-00-Visao-Geral.md)
+- **Próximo:** [O Termo](02-02-Termo.md)
 - **Relacionado:** [02-07 — Antepredicamentos](02-07-Antepredicamentos.md) (fundamentos anteriores aos dez)
 - **Referência clássica:** Aristóteles, *Categorias*; Porfírio, *Isagoge*
+
 
 ## Predicamentos e proposição categórica
 

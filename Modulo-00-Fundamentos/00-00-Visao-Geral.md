@@ -1,5 +1,17 @@
 # [00-00] Módulo 0 — Fundamentos e Natureza da Lógica
 
+
+<!-- nav-sequencial -->
+> [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Módulo 1 — Concepção (Primeira Operação do Intelecto)](../Modulo-01-Concepcao/01-00-Visao-Geral.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 <!-- notebooklm-recursos -->
 > ### Recursos de Aprendizado — NotebookLM
 > Quiz, podcast, mapa mental e cartões didáticos deste módulo.
@@ -61,9 +73,9 @@ Essa sequência (Conceito → Proposição → Argumento) não é arbitrária. E
 Os módulos deste material seguem exatamente essa progressão. Cada etapa pressupõe a anterior: não dá para entender silogismos sem dominar proposições, nem proposições sem dominar conceitos. Se algo parecer difícil em um módulo avançado, a causa provável é um conceito do módulo anterior que ficou solto.
 
 ## Conexões
-
-- **Próximo:** [M01 — Concepção](../Modulo-01-Concepcao/01-00-Visao-Geral.md) (a primeira operação do intelecto)
+- **Próximo:** [Módulo 1 — Concepção (Primeira Operação do Intelecto)](../Modulo-01-Concepcao/01-00-Visao-Geral.md)
 - **Referência clássica:** Aristóteles, *Organon* (o conjunto de textos que fundou a Lógica como disciplina)
+
 
 ## Auto-reflexão
 

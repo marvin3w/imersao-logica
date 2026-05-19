@@ -1,5 +1,17 @@
 # [03-09] Tipos de Inferência
 
+
+<!-- nav-sequencial -->
+> ← [Raciocínio](03-08-Raciocinio.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Argumento Dedutivo](03-10-Argumento-Dedutivo.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Vou reformular sua frase de outro jeito" pode ser conversão legítima (educção) ou silogismo disfarçado. "Faltou a premissa, mas a conclusão está certa" pode ser enthymema válido ou salto lógico. Sem distinguir **tipos de inferência**, você corrige o argumento errado ou valida o argumento errado pelo método certo.
@@ -57,11 +69,11 @@ Silogismo com **conclusão suprimida**. As premissas estão explícitas; a concl
 Num debate: alguém diz apenas "Logo, devemos votar no candidato X." Antes de concordar ou discordar, reconstrua o silogismo. Premissa maior? Premissa menor? Está completo ou é enthymema? Falta premissa é falha comum em propaganda política: a conclusão parece seguir, mas a premissa oculta pode ser falsa ou controvertida.
 
 ## Conexões
-
-- **Anterior:** [03-08 — Raciocínio](03-08-Raciocinio.md)
-- **Próximo:** [03-10 — Argumento Dedutivo](03-10-Argumento-Dedutivo.md)
+- **Anterior:** [Raciocínio](03-08-Raciocinio.md)
+- **Próximo:** [Argumento Dedutivo](03-10-Argumento-Dedutivo.md)
 - **Retorno:** Edução em [03-05](03-05-Relacoes-Oposicao-Educao-2.md)
 - **Referência clássica:** Aristóteles, *Retórica*, I.2 (enthymema); *Tópicos*
+
 
 ## Auto-reflexão
 

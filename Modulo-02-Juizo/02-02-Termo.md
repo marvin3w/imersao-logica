@@ -1,5 +1,17 @@
 # [02-02] O Termo
 
+
+<!-- nav-sequencial -->
+> ← [Os Dez Predicamentos](02-01-Dez-Predicamentos.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [O Sinal](02-03-Sinal.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Duas pessoas debatem: "O banco está fechado." Uma pensa no banco financeiro; a outra, no banco da praça. Ambas usam a mesma palavra, mas os conceitos supostos diferem. O argumento parece coerente na superfície e explode na conclusão. Antes de julgar se uma proposição é verdadeira, precisamos saber se seus **termos** estão fixados.
@@ -55,11 +67,11 @@ Termos como "coisa", "negócio", "situação" frequentemente mascaram conceito i
 Numa negociação, substituir "precisamos melhorar a coisa" por "precisamos reduzir o prazo de entrega em 20%" transforma retórica vaga em proposição analisável.
 
 ## Conexões
-
-- **Anterior:** [02-01 — Dez Predicamentos](02-01-Dez-Predicamentos.md)
-- **Próximo:** [02-03 — Sinal](02-03-Sinal.md) (termo significa; sinal remete)
+- **Anterior:** [Os Dez Predicamentos](02-01-Dez-Predicamentos.md)
+- **Próximo:** [O Sinal](02-03-Sinal.md)
 - **Adiante:** [02-04](02-04-Tipos-de-Termos-1.md) – [02-06](02-06-Tipos-de-Termos-3.md) (tipologia completa)
 - **Referência clássica:** Aristóteles, *De Interpretatione* (περὶ ἑρμηνείας)
+
 
 ## Aplicação prática (fecho)
 

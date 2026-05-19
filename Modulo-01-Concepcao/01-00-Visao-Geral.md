@@ -1,5 +1,17 @@
 # [01-00] Módulo 1 — Concepção (Primeira Operação do Intelecto)
 
+
+<!-- nav-sequencial -->
+> ← [Módulo 0 — Fundamentos e Natureza da Lógica](../Modulo-00-Fundamentos/00-00-Visao-Geral.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Concepção — A Primeira Operação do Intelecto](01-01-Concepcao.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 <!-- notebooklm-recursos -->
 > ### Recursos de Aprendizado — NotebookLM
 > Quiz, podcast, mapa mental e cartões didáticos deste módulo.
@@ -45,10 +57,6 @@ O módulo segue uma ordem deliberada. Primeiro entendemos *o que* é a operaçã
 
 Pense numa biblioteca que recebe mil livros novos por semana. Antes de catalogar (dividir por gênero e espécie), é preciso saber o que é um livro, o que é um romance, o que distingue um romance policial de um romance histórico. Concepção, definição e divisão são exatamente esse trabalho preparatório, feito no intelecto antes de qualquer argumento.
 
-## Como estudar este módulo
-
-Cada sessão pressupõe a anterior. Se a distinção entre intensão e extensão (01-03) parecer abstrata, volte aos objetos do pensamento (01-02). Se as regras de definição (01-05) confundirem, verifique se seus conceitos são claros e distintos (01-04). A Lógica recompensa quem constrói degrau por degrau.
-
 Será que vale a pena memorizar todas as classificações? Não como lista seca, mas como *ferramentas de diagnóstico*. Quando uma conversa trava, pergunte: o conceito está obscuro? A definição é circular? A divisão mistura critérios? Cada sessão oferece um filtro diferente para o mesmo problema: pensamento impreciso.
 
 ## Relação com as três operações
@@ -69,19 +77,15 @@ O material cobre as aulas 04 a 13 do curso original: Concepção (04), Objetos d
 
 Num planejamento de viagem em família, cada membro traz conceitos diferentes de "descanso". A sessão 01-03 (intensão/extensão) explica por que adicionar requisitos ("praia", "silêncio", "atividades") reduz opções. A sessão 01-07 (divisão) explica por que misturar critérios ("barato + perto do mar + com piscina grande") paralisa a escolha. O módulo inteiro converge para um objetivo: tornar o pensamento *explícito* antes de torná-lo *argumentativo*.
 
-Recomenda-se ler as sessões na ordem numérica. Reserve tempo para a auto-reflexão ao final de cada uma: as perguntas não são enfeite, são o exercício que transforma teoria em hábito. Ao concluir [01-08](01-08-Tipos-de-Divisao.md), você estará pronto para a segunda operação do intelecto: o Juízo.
-
 ## Conexões
-
-- **Anterior:** [M00 — Fundamentos](../Modulo-00-Fundamentos/00-00-Visao-Geral.md) (natureza da Lógica e as três operações)
-- **Próximo:** [01-01 — Concepção](01-01-Concepcao.md) (primeira sessão do módulo)
+- **Anterior:** [Módulo 0 — Fundamentos e Natureza da Lógica](../Modulo-00-Fundamentos/00-00-Visao-Geral.md)
+- **Próximo:** [Concepção — A Primeira Operação do Intelecto](01-01-Concepcao.md)
 - **Adiante:** [M02 — Juízo](../Modulo-02-Juizo/) (segunda operação: afirmar e negar)
 - **Referência clássica:** Aristóteles, *Organon*; Porfírio, *Isagoge*
 
+
 ## Auto-reflexão
 
-Antes de avançar para [01-01](01-01-Concepcao.md), vale calibrar expectativas: este módulo exige leitura activa, não passiva.
-
-1. Antes de ler as sessões seguintes, tente definir "conceito" com suas próprias palavras. Depois de ler [01-03](01-03-Conceito.md), compare: o que mudou?
+1. Antes de avançar, tente definir "conceito" com suas próprias palavras. Depois de ler [01-03](01-03-Conceito.md), compare: o que mudou?
 2. Qual sessão deste módulo parece mais útil para problemas que você enfrenta hoje: clareza de conceitos, definições ou divisões?
 3. Pense numa discussão recente. O impasse estava no juízo (afirmar/negar) ou na concepção (entender o que algo é)?

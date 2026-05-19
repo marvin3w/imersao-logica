@@ -1,5 +1,17 @@
 # [02-17] Proposições Categóricas e Modais
 
+
+<!-- nav-sequencial -->
+> ← [Proposições Afirmativas e Negativas](02-16-Proposicoes-Afirmativas-Negativas.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Proposições Empíricas, Gerais e Totais](02-18-Proposicoes-Empiricas-Gerais.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Todo homem é mortal" e "Algum homem é filósofo" diferem em **quantidade**. "Homem é mortal" e "Homem pode ser justo" diferem em **modalidade**. Silogismo clássico opera sobre categóricas A/E/I/O; modais exigem regras adicionais. Confundir modalidades gera "provas" que só funcionam no mundo possível, não no real.
@@ -56,10 +68,10 @@ Será que modalidade altera distribuição? Em silogismo modal, sim; por ora, fi
 "Deve chover amanhã" (deontico, não epistémico) mistura modalidade prática com previsão. "Pode ser que chova" (epistémico possível) vs. "Chove necessariamente quando nuvens cumulonimbus X formam-se" (necessidade física condicionada). Explicitar modal evita obrigar ou prometer além da evidência.
 
 ## Conexões
-
-- **Anterior:** [02-16 — Afirmativas e Negativas](02-16-Proposicoes-Afirmativas-Negativas.md)
-- **Próximo:** [02-18 — Empíricas e Gerais](02-18-Proposicoes-Empiricas-Gerais.md)
+- **Anterior:** [Proposições Afirmativas e Negativas](02-16-Proposicoes-Afirmativas-Negativas.md)
+- **Próximo:** [Proposições Empíricas, Gerais e Totais](02-18-Proposicoes-Empiricas-Gerais.md)
 - **Adiante:** [M03 — Quadrado das Oposições](../Modulo-03-Raciocinio-Dedutivo/) (A/E/I/O)
+
 
 ## Mnemónica A/E/I/O
 

@@ -1,5 +1,17 @@
 # [04-00] Módulo 4 — Indução e Crítica Argumentativa
 
+
+<!-- nav-sequencial -->
+> ← [Silogismos Compostos (2)](../Modulo-03-Raciocinio-Dedutivo/03-17-Silogismos-Compostos-2.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Argumento Indutivo](04-01-Argumento-Indutivo.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 <!-- notebooklm-recursos -->
 > ### Recursos de Aprendizado — NotebookLM
 > Quiz, podcast, mapa mental e cartões didáticos deste módulo.
@@ -42,11 +54,11 @@ Sem dominar dedução, você não distingue "a conclusão segue necessariamente"
 Pense na dedução como esquadro e nível: garante ângulos retos. A indução é como estimar o peso de uma carga: regras de prudência, margem de erro, revisão com novos dados.
 
 ## Conexões
-
-- **Anterior:** [M03 — Raciocínio Dedutivo](../Modulo-03-Raciocinio-Dedutivo/03-00-Visao-Geral.md)
-- **Próximo:** [04-01 — Argumento Indutivo](04-01-Argumento-Indutivo.md)
+- **Anterior:** [Silogismos Compostos (2)](../Modulo-03-Raciocinio-Dedutivo/03-17-Silogismos-Compostos-2.md)
+- **Próximo:** [Argumento Indutivo](04-01-Argumento-Indutivo.md)
 - **Retorno:** Estados da inteligência (opinião, certeza) em M02
 - **Referência clássica:** Aristóteles, *Analíticos Posteriores*; *Tópicos*
+
 
 ## Limites honestos da indução
 
@@ -64,17 +76,3 @@ Numa conversa sobre vacinas, dietas ou investimentos, ouça se o interlocutor co
 2. Por que "Todo cisne é branco" falhou como indução universal?
 3. O que muda na sua postura ao saber que indução produz opinião, não certeza?
 4. Em que área da sua vida você mais precisa calibrar indução em vez de exigir certeza dedutiva?
-
-## Mapa de leitura do M04
-
-```
-04-00 Visão Geral (este documento)
-    │
-    ▼
-04-01 Argumento Indutivo — mecanismo e enumeração
-    │
-    ▼
-04-02 Princípios e Regras — amostra, analogia, crítica
-```
-
-Leia na ordem: o segundo documento define *o que* é indução; o terceiro define *como* avaliá-la criticamente.

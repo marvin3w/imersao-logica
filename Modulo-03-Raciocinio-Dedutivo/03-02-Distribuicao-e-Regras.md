@@ -1,5 +1,17 @@
 # [03-02] Distribuição e Regras
 
+
+<!-- nav-sequencial -->
+> ← [Formas AEIO](03-01-Formas-AEIO.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Forma Lógica Própria](03-03-Forma-Logica-Propria.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Dois colegas debatem: "Todo professor é dedicado. Algum dedicado é pontual. Logo, algum professor é pontual." A conclusão parece plausível, mas o argumento é inválido. O termo que deveria ligar as premissas ("dedicado") nunca foi tomado em toda a sua extensão. Esse erro só se detecta quando você domina **distribuição**.
@@ -57,11 +69,11 @@ Exemplo: "Nenhum inseto é mamífero" → E → sujeito D, predicado D. Se "inse
 Lembre [01-03 — O Conceito](../Modulo-01-Concepcao/01-03-Conceito.md): intensão e extensão obedecem à razão inversa. Distribuição opera sobre **extensão**: termo distribuído = toda a extensão em jogo. Quando um argumento "amplia" na conclusão o que estava restrito na premissa, frequentemente viola tanto distribuição quanto a razão inversa entre termos.
 
 ## Conexões
-
-- **Anterior:** [03-01 — Formas AEIO](03-01-Formas-AEIO.md)
-- **Próximo:** [03-03 — Forma Lógica Própria](03-03-Forma-Logica-Propria.md)
+- **Anterior:** [Formas AEIO](03-01-Formas-AEIO.md)
+- **Próximo:** [Forma Lógica Própria](03-03-Forma-Logica-Propria.md)
 - **Adiante:** Regra 3 do silogismo ([03-11](03-11-Principios-Regras-Silogismo-Simples.md)) exige termo médio distribuído
 - **Referência clássica:** Aristóteles, *Analíticos Próprios*; Leibniz, *Dissertatio de Arte Combinatoria*
+
 
 ## Auto-reflexão
 

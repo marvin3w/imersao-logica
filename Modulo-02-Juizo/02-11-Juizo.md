@@ -1,5 +1,17 @@
 # [02-11] O Juízo
 
+
+<!-- nav-sequencial -->
+> ← [Suplência (Suposição)](02-10-Suplencia.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Discursos](02-12-Discursos.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Você pode saber o que é "justiça" e o que é "injustiça" (dois conceitos claros) e ainda hesitar em dizer se uma decisão judicial foi justa. Hesitação não é falta de conceito: é falta de **juízo**. Toda tomada de posição ("concordo", "reprovo", "isso é verdade") exige unir conceitos afirmando ou negando.
@@ -55,10 +67,10 @@ Confundir juízo composto com raciocínio: "Se chove, a rua molha" é um juízo;
 Sentimento intenso não substitui juízo, embora frequentemente o dispare. "Sinto que ele mentiu" expressa paixão; juízo correspondente seria "Ele mentiu" com evidência. Lógica não nega emoção; exige tradução em proposição quando se pretende verdade ou falsidade.
 
 ## Conexões
-
-- **Anterior:** [02-10 — Suplência](02-10-Suplencia.md)
-- **Próximo:** [02-12 — Discursos](02-12-Discursos.md)
+- **Anterior:** [Suplência (Suposição)](02-10-Suplencia.md)
+- **Próximo:** [Discursos](02-12-Discursos.md)
 - **Referência:** [00-00 — Três Operações](../Modulo-00-Fundamentos/00-00-Visao-Geral.md); Aristóteles, *De Interpretatione*
+
 
 ## Juízo a priori e a posteriori (antecipação)
 

@@ -1,5 +1,17 @@
 # [02-16] Proposições Afirmativas e Negativas
 
+
+<!-- nav-sequencial -->
+> ← [Proposições Compostas (II) — Exclusiva, Exceptiva e Reduplicativa](02-15-Proposicoes-Compostas-2.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Proposições Categóricas e Modais](02-17-Proposicoes-Categoricas-Modais.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Não é impossível que chova" — quantas negações? Duas. Significa "é possível que chova". Erros de negação são among the most common in debate: negar o negativo achando que reforça, ou confundir "não todo" com "nenhum".
@@ -50,10 +62,10 @@ Negativa bem formada permite **obversão** lógica: "Todo A é B" → "Nenhum A 
 "Nem todo A é B" = "Algum A não é B" (forma O). Erro frequente: ler como "Nenhum A é B" (forma E). Distinção decisiva em estatística e direito: excepções existem (O) vs. categoria inteira excluída (E).
 
 ## Conexões
-
-- **Anterior:** [02-15 — Proposições Compostas 2](02-15-Proposicoes-Compostas-2.md)
-- **Próximo:** [02-17 — Categóricas e Modais](02-17-Proposicoes-Categoricas-Modais.md)
+- **Anterior:** [Proposições Compostas (II) — Exclusiva, Exceptiva e Reduplicativa](02-15-Proposicoes-Compostas-2.md)
+- **Próximo:** [Proposições Categóricas e Modais](02-17-Proposicoes-Categoricas-Modais.md)
 - **Referência:** [02-08 — Contradição](02-08-Relacoes-Termos-1.md)
+
 
 ## Tripla negativa e língua natural
 

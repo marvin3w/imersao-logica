@@ -1,5 +1,17 @@
 # [02-00] Módulo 2 — Juízo (Segunda Operação do Intelecto)
 
+
+<!-- nav-sequencial -->
+> ← [Tipos de Divisão](../Modulo-01-Concepcao/01-08-Tipos-de-Divisao.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Os Dez Predicamentos](02-01-Dez-Predicamentos.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 <!-- notebooklm-recursos -->
 > ### Recursos de Aprendizado — NotebookLM
 > Quiz, podcast, mapa mental e cartões didáticos deste módulo.
@@ -62,21 +74,12 @@ Antes de avançar, você deve dominar:
 - [01-07 — Divisão e Regras](../Modulo-01-Concepcao/01-07-Divisao-e-Regras.md): movimento descendente; Árvore de Porfírio
 - [01-08 — Tipos de Divisão](../Modulo-01-Concepcao/01-08-Tipos-de-Divisao.md): física/lógica; essencial/acidental
 
-Se algum desses conceitos estiver turvo, volte antes de estudar suplência ou proposições categóricas.
+Se algum desses conceitos estiver turvo, use **Anterior** na barra de navegação para retomar o documento correspondente.
 
-## Para onde vamos depois
+## Conexões
+- **Anterior:** [Tipos de Divisão](../Modulo-01-Concepcao/01-08-Tipos-de-Divisao.md)
+- **Próximo:** [Os Dez Predicamentos](02-01-Dez-Predicamentos.md)
 
-Ao concluir este módulo, você estará pronto para [M03 — Raciocínio Dedutivo](../Modulo-03-Raciocinio-Dedutivo/03-00-Visao-Geral.md): silogismos, distribuição de termos, quadrado das oposições e as oito regras do silogismo simples. Tudo o que estudamos aqui sobre termos, quantidade e qualidade das proposições será pressuposto na validação de argumentos.
-
-## Como estudar este módulo
-
-Leia na ordem numérica. Cada documento pressupõe o anterior; saltar de [02-02](02-02-Termo.md) para [02-17](02-17-Proposicoes-Categoricas-Modais.md) deixa lacunas em suplência e quantidade. Reserve tempo para as seções de auto-reflexão: elas funcionam como checkpoint antes de avançar.
-
-Estimativa: 22 sessões de estudo (uma por documento, exceto visão geral), ~45 minutos cada, incluindo reflexão escrita.
-
-## Aplicação prática (fecho)
-
-Lembre-se da situação do início: conceitos claros, proposição turva. O Módulo 2 ensina a diagnosticar *onde* a proposição falha: termo equívoco? suposição trocada? quantidade errada? modalidade confundida? Ao final, você deve conseguir pegar qualquer frase assertiva de um debate e decompô-la em termos, cópula, quantidade e modalidade antes de julgar o argumento.
 
 ## Auto-reflexão
 

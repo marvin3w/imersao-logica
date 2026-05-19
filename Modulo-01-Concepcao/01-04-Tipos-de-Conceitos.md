@@ -1,5 +1,17 @@
 # [01-04] Tipos de Conceitos
 
+
+<!-- nav-sequencial -->
+> ← [O Conceito](01-03-Conceito.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Definição e Regras](01-05-Definicao-e-Regras.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Numa entrevista de emprego, o candidato descreve-se como "pessoa proativa, criativa e orientada a resultados". Soa bem. Mas o entrevistador pergunta: "o que exatamente você quer dizer com proativa?" e a resposta demora, troca de assunto, repete sinônimos. O conceito não estava *claro*; estava apenas *familiar*. Saber classificar a qualidade de um conceito é saber diagnosticar onde o pensamento falha antes que o argumento desmorone.
@@ -74,10 +86,10 @@ Essas classificações funcionam como checklist. Quando uma conversa trava, perg
 Num planejamento familiar sobre "férias ideais", cada membro pode ter conceito claro (sabe o que quer), distinto (notas separadas), mas inadequado ao orçamento ou incompleto (ignora logística). Identificar *qual* dimensão falha evita discussões circulares.
 
 ## Conexões
-
-- **Anterior:** [01-03 — O Conceito](01-03-Conceito.md) (definição e marcas do conceito)
-- **Próximo:** [01-05 — Definição e Regras](01-05-Definicao-e-Regras.md) (como tornar conceitos explícitos)
+- **Anterior:** [O Conceito](01-03-Conceito.md)
+- **Próximo:** [Definição e Regras](01-05-Definicao-e-Regras.md)
 - **Referência clássica:** Port-Royal, *Lógica de Port-Royal* (clareza e distinção); Leibniz (conceitos claros e distintos)
+
 
 ## Auto-reflexão
 

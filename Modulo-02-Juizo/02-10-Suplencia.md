@@ -1,5 +1,17 @@
 # [02-10] Suplência (Suposição)
 
+
+<!-- nav-sequencial -->
+> ← [Relações entre Termos (II) — Ampliação, Restrição e Suposição](02-09-Relacoes-Termos-2.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [O Juízo](02-11-Juizo.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Argumento clássico inválido: "O homem é mortal. Sócrates é homem. Logo, Sócrates é mortal." Parece válido — e é. Agora troque: "Nada é mais veloz que a cavalgadura. A cavalgadura de Balaão é alguma coisa. Logo, a cavalgadura de Balaão é mais veloz que si mesma." A palavra "cavalgadura" aparece duas vezes, mas **supõe** conceitos diferentes. Essa troca silenciosa é a **falácia do quarto termo**.
@@ -58,11 +70,11 @@ Para este curso, material/formal + teste de identidade ratione bastam na maioria
 "Cientistas dizem X. Einstein era cientista. Logo, Einstein dizia X." "Cientista" pode supor comunidade actual vs. indivíduo histórico; "dizem" agrega posições diversas. Desmontar suplências expõe generalização indevida antes de apelo à autoridade.
 
 ## Conexões
-
-- **Anterior:** [02-09 — Relações de Termos 2](02-09-Relacoes-Termos-2.md)
-- **Próximo:** [02-11 — Juízo](02-11-Juizo.md)
+- **Anterior:** [Relações entre Termos (II) — Ampliação, Restrição e Suposição](02-09-Relacoes-Termos-2.md)
+- **Próximo:** [O Juízo](02-11-Juizo.md)
 - **Adiante:** [M03 — Regras do Silogismo](../Modulo-03-Raciocinio-Dedutivo/) (regra dos três termos)
 - **Referência:** Tomás de Aquino, *Summa Logicae*; Schopenhauer, *Erística Dialética*
+
 
 ## Auto-reflexão
 

@@ -1,5 +1,17 @@
 # [02-18] Proposições Empíricas, Gerais e Totais
 
+
+<!-- nav-sequencial -->
+> ← [Proposições Categóricas e Modais](02-17-Proposicoes-Categoricas-Modais.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Proposições Verdadeiras, Falsas e Predicativas](02-19-Proposicoes-Verdade-Predicativas.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Sócrates morreu" (empírica) e "Todo homem é mortal" (geral universal) não têm o mesmo tipo de evidência. Generalizar a partir de um caso ou particularizar sem licença são falhas clássicas. Quantidade da proposição fixa o escopo do que se afirma.
@@ -52,10 +64,10 @@ Subir de particular para universal (indução) não tem mesma licença necessár
 Margem de erro transforma universal rhetorical em particular real: "95% dos casos" é I ampliada, não A. Exigir quantificação explícita em enunciados públicos reduz falácia de generalização.
 
 ## Conexões
-
-- **Anterior:** [02-17 — Categóricas e Modais](02-17-Proposicoes-Categoricas-Modais.md)
-- **Próximo:** [02-19 — Verdade e Predicativas](02-19-Proposicoes-Verdade-Predicativas.md)
+- **Anterior:** [Proposições Categóricas e Modais](02-17-Proposicoes-Categoricas-Modais.md)
+- **Próximo:** [Proposições Verdadeiras, Falsas e Predicativas](02-19-Proposicoes-Verdade-Predicativas.md)
 - **Referência:** [02-04 — Termos empíricos e gerais](02-04-Tipos-de-Termos-1.md)
+
 
 ## Particular afirmativa e existencial
 

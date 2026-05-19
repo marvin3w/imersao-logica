@@ -1,5 +1,17 @@
 # [01-02] Objetos do Pensamento
 
+
+<!-- nav-sequencial -->
+> ← [Concepção — A Primeira Operação do Intelecto](01-01-Concepcao.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [O Conceito](01-03-Conceito.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Duas pessoas discutem se "números existem". Uma afirma que sim, porque usa matemática todo dia. A outra nega, porque nunca viu o número sete caminhando pela rua. As duas estão falando de coisas reais, mas *tipos diferentes* de realidade. Sem distinguir os objetos do pensamento, a discussão vira disputa de intuções, não de argumentos.
@@ -69,10 +81,10 @@ Platão, embora com ontologia própria, contribuiu ao destacar que nem todo obje
 Numa escolha de escola para os filhos, os pais podem misturar objetos de tipos diferentes numa mesma frase: "Quero uma escola *próxima* (físico), com *professores dedicados* (psíquico), que forme *cidadãos íntegros* (ideal)." Cada critério apreende um tipo de objeto. Organizar os critérios por tipo evita comparar coisas incomparáveis e torna a decisão mais transparente.
 
 ## Conexões
-
-- **Anterior:** [01-01 — Concepção](01-01-Concepcao.md) (a operação que apreende objetos)
-- **Próximo:** [01-03 — O Conceito](01-03-Conceito.md) (produto da apreensão)
+- **Anterior:** [Concepção — A Primeira Operação do Intelecto](01-01-Concepcao.md)
+- **Próximo:** [O Conceito](01-03-Conceito.md)
 - **Referência clássica:** Aristóteles, *Metafísica* (sobre substância, forma e matéria)
+
 
 ## Auto-reflexão
 

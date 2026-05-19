@@ -1,5 +1,17 @@
 # [03-04] Relações, Oposição e Edução (1)
 
+
+<!-- nav-sequencial -->
+> ← [Forma Lógica Própria](03-03-Forma-Logica-Propria.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Relações, Oposição e Edução (2)](03-05-Relacoes-Oposicao-Educao-2.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Numa assembleia, alguém afirma: "Todos os moradores concordam com a reforma." Outro retruca: "Alguns moradores não concordam." Será que ambos podem estar certos? Ou um deles *necessariamente* está errado? Sem o Quadrado das Oposições, essa pergunta vira achismo. Com ele, você sabe: são proposições **contraditórias**; se uma é verdadeira, a outra é necessariamente falsa.
@@ -65,10 +77,10 @@ A **verdade da universal** implica a verdade da particular correspondente. A **f
 Além da oposição, proposições podem ser **compostas** (conjuntivas, disjuntivas, condicionais), tratadas em M02. A oposição opera sobre proposições **categóricas simples** com mesmos termos. Silogismos complexos ([03-14](03-14-Silogismos-Complexos-1.md)) usam composição de outro tipo.
 
 ## Conexões
-
-- **Anterior:** [03-03 — Forma Lógica Própria](03-03-Forma-Logica-Propria.md)
-- **Próximo:** [03-05 — Relações, Oposição e Edução (2)](03-05-Relacoes-Oposicao-Educao-2.md) (educção: conversão, obversão, contraposição)
+- **Anterior:** [Forma Lógica Própria](03-03-Forma-Logica-Propria.md)
+- **Próximo:** [Relações, Oposição e Edução (2)](03-05-Relacoes-Oposicao-Educao-2.md)
 - **Referência clássica:** Boécio, *De Syllogismo Categorico*; Apuleio, *Peri Hermeneias*
+
 
 ## Auto-reflexão
 

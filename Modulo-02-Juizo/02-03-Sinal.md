@@ -1,5 +1,17 @@
 # [02-03] O Sinal
 
+
+<!-- nav-sequencial -->
+> ← [O Termo](02-02-Termo.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Tipos de Termos (I) — Empíricos, Gerais e Existência](02-04-Tipos-de-Termos-1.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Você vê fumaça no horizonte e conclui: há fogo. Não viu o fogo; viu o sinal. No dia seguinte, alguém aponta para uma placa "Saída" e você entende onde sair, sem que a placa *seja* a saída. Parte do nosso conhecimento sobre o mundo vem de **sinais**, não de termos que nomeiam diretamente o objeto.
@@ -47,11 +59,11 @@ Alguém poderia objetar: "e os sinais milagrosos ou extraordinários?" Mesmo nel
 Tom de voz, expressão facial, silêncio prolongado: sinais convencionais ou naturais que indicam estado psíquico alheio. Interpretá-los sem confirmar juízo verbal gera conflitos familiares ("você está bravo" vs. "estou cansado"). Prudência lógica: tratar sinal como hipótese, pedir proposição afirmativa do interlocutor.
 
 ## Conexões
-
-- **Anterior:** [02-02 — Termo](02-02-Termo.md)
-- **Próximo:** [02-04 — Tipos de Termos 1](02-04-Tipos-de-Termos-1.md)
+- **Anterior:** [O Termo](02-02-Termo.md)
+- **Próximo:** [Tipos de Termos (I) — Empíricos, Gerais e Existência](02-04-Tipos-de-Termos-1.md)
 - **Adiante:** [M04 — Indução](../Modulo-04-Inducao-Critica/) (sinais e probabilidade)
 - **Referência clássica:** Aristóteles, *Analíticos Segundos* (sinais e demonstração)
+
 
 ## Sinais vs. termos: critério de decisão
 

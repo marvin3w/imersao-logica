@@ -1,5 +1,17 @@
 # [04-02] Princípios e Regras da Indução
 
+
+<!-- nav-sequencial -->
+> ← [Argumento Indutivo](04-01-Argumento-Indutivo.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md)
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Funcionou para mim" não basta para recomendar um remédio a todos. "Pesquisa com 12 pessoas comprova eficácia universal" exagera amostra. **Regras da indução** calibram quando generalizar é prudente e quando é **generalização apressada** (falácia informal comum).
@@ -68,11 +80,11 @@ Pense na crítica indutiva como **auditoria de amostra**: não pergunta só "a f
 Numa reunião de condomínio: "Os dois vizinhos que conheço são barulhentos, logo todos são barulhentos." Crítica: amostra não representativa (só os visíveis), n=2 insuficiente, conclusão universal excessiva. Reformulação prudente: "Alguns vizinhos podem ser barulhentos; preciso de mais evidência antes de generalizar." Isso é indução *crítica*, não ceticismo.
 
 ## Conexões
-
-- **Anterior:** [04-01 — Argumento Indutivo](04-01-Argumento-Indutivo.md)
+- **Anterior:** [Argumento Indutivo](04-01-Argumento-Indutivo.md)
 - **Retorno:** [03-08 — Raciocínio](../Modulo-03-Raciocinio-Dedutivo/03-08-Raciocinio.md); opinião e certeza em M02
 - **Panorama:** [00 — Panorama Geral](../00-Panorama-Geral.md)
 - **Referência clássica:** Aristóteles, *Tópicos*; Mill, métodos de indução; estatística inferencial (refinamento moderno)
+
 
 ## Auto-reflexão
 

@@ -1,5 +1,17 @@
 # [02-08] Relações entre Termos (I) — Contradição, Contrariedade e Privação
 
+
+<!-- nav-sequencial -->
+> ← [Antepredicamentos](02-07-Antepredicamentos.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Relações entre Termos (II) — Ampliação, Restrição e Suposição](02-09-Relacoes-Termos-2.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Não está vivo" pode significar três coisas distintas: morto (privação), nunca foi vivo (negativa simples), ou está em coma (intermediário entre vivo e morto?). Tratar toda negação como contradição gera argumentos inválidos e diagnósticos errados no debate público.
@@ -56,10 +68,10 @@ Usar diagrama em análise de debate acelera identificação de falso dilema (con
 As relações entre proposições A/E/I/O no [M03](../Modulo-03-Raciocinio-Dedutivo/) mapeiam repugnâncias formais: contradictories correspondem à contradição lógica; contraries, à contrariedade entre universais. Antecipar este mapa ao estudar termos prepara o silogismo.
 
 ## Conexões
-
-- **Anterior:** [02-07 — Antepredicamentos](02-07-Antepredicamentos.md)
-- **Próximo:** [02-09 — Relações de Termos 2](02-09-Relacoes-Termos-2.md) (ampliação, restrição)
+- **Anterior:** [Antepredicamentos](02-07-Antepredicamentos.md)
+- **Próximo:** [Relações entre Termos (II) — Ampliação, Restrição e Suposição](02-09-Relacoes-Termos-2.md)
 - **Adiante:** [M03 — Quadrado das Oposições](../Modulo-03-Raciocinio-Dedutivo/) (contraditórias A-O, contrárias A-E)
+
 
 ## Privação e normatividade
 

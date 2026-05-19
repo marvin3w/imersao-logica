@@ -1,5 +1,17 @@
 # [03-08] Raciocínio
 
+
+<!-- nav-sequencial -->
+> ← [Predicáveis](03-07-Predicaveis.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Tipos de Inferência](03-09-Tipos-de-Inferencia.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Você sabe o que é um triângulo (conceito). Sabe afirmar "Este triângulo tem três lados" (proposição). Mas como chegar a "Logo, todo triângulo tem três lados" a partir de casos particulares, ou a "Logo, esta figura não é círculo" a partir de duas premissas? Isso é **raciocínio**: a terceira operação do intelecto, aquela que produz conhecimento novo a partir do que já se conhece.
@@ -61,11 +73,11 @@ Numa discussão sobre mudar de apartamento: alguém lista prós e contras (propo
 Proposições podem ser enunciadas em ordem variada; o raciocínio subjacente permanece. "Fulano é mortal, pois é homem, e todo homem é mortal" é o mesmo argumento que "Todo homem é mortal; Fulano é homem; logo…" A Lógica abstrai ordem retórica para expor estrutura inferencial, não estilo de fala.
 
 ## Conexões
-
-- **Anterior:** [03-07 — Predicáveis](03-07-Predicaveis.md)
-- **Próximo:** [03-09 — Tipos de Inferência](03-09-Tipos-de-Inferencia.md)
+- **Anterior:** [Predicáveis](03-07-Predicaveis.md)
+- **Próximo:** [Tipos de Inferência](03-09-Tipos-de-Inferencia.md)
 - **Adiante:** [03-10 — Argumento Dedutivo](03-10-Argumento-Dedutivo.md)
 - **Referência clássica:** Aristóteles, *Analíticos Próprios*, I.1
+
 
 ## Auto-reflexão
 

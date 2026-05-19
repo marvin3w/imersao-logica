@@ -1,5 +1,17 @@
 # [04-01] Argumento Indutivo
 
+
+<!-- nav-sequencial -->
+> ← [Módulo 4 — Indução e Crítica Argumentativa](04-00-Visao-Geral.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Princípios e Regras da Indução](04-02-Principios-Regras-Inducao.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Vendi bem nas três primeiras feiras, logo vou vender bem na quarta." "Meus três amigos gostaram do filme, logo é um ótimo filme." Esses raciocínios são úteis e comuns. Também são **indutivos**: extrapolam de casos observados para um todo não totalmente observado. Aceitá-los ou rejeitá-los exige critérios diferentes dos silogismos do M03.
@@ -60,11 +72,11 @@ A indução situa-se naturalmente no estado de **opinião**: adesão com consci�
 Quando alguém diz "prove!", pergunte: dedução ou indução? Dedução exige premissas + forma. Indução exige amostra + ausência de contraexemplo decisivo. Exigir silogismo de "gosto de chocolate" ou "inflação subirá" confunde tipos de evidência. Cada modo tem seu critério; nenhum substitui o outro.
 
 ## Conexões
-
-- **Anterior:** [04-00 — Visão Geral](04-00-Visao-Geral.md)
-- **Próximo:** [04-02 — Princípios e Regras da Indução](04-02-Principios-Regras-Inducao.md)
+- **Anterior:** [Módulo 4 — Indução e Crítica Argumentativa](04-00-Visao-Geral.md)
+- **Próximo:** [Princípios e Regras da Indução](04-02-Principios-Regras-Inducao.md)
 - **Retorno:** Raciocínio dedutivo vs. indutivo em [03-08](../Modulo-03-Raciocinio-Dedutivo/03-08-Raciocinio.md)
 - **Referência clássica:** Aristóteles, *Analíticos Posteriores*, II; Hume, problema da indução (crítica moderna)
+
 
 ## Auto-reflexão
 

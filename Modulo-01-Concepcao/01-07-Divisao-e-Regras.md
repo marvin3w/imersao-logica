@@ -1,5 +1,17 @@
 # [01-07] Divisão e Regras
 
+
+<!-- nav-sequencial -->
+> ← [Tipos de Definições](01-06-Tipos-de-Definicoes.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Tipos de Divisão](01-08-Tipos-de-Divisao.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Uma biblioteca recebe doação de três mil livros. A diretora diz: "Organizem por cor da capa." Funciona visualmente, mas quem procura um romance policial precisa vasculhar pilhas vermelhas, azuis e amarelas sem lógica interna. Divisão errada cria ordem aparente e caos prático. Saber dividir conceitos corretamente é saber organizar o pensamento de modo que outros possam navegar nele.
@@ -80,11 +92,11 @@ Numa biblioteca:
 A cor pode ser útil para inventário físico, mas não para quem busca conteúdo. O critério de divisão deve servir ao **propósito** da organização.
 
 ## Conexões
-
-- **Anterior:** [01-06 — Tipos de Definições](01-06-Tipos-de-Definicoes.md) (complemento: definir antes de dividir)
-- **Próximo:** [01-08 — Tipos de Divisão](01-08-Tipos-de-Divisao.md) (modos de dividir)
+- **Anterior:** [Tipos de Definições](01-06-Tipos-de-Definicoes.md)
+- **Próximo:** [Tipos de Divisão](01-08-Tipos-de-Divisao.md)
 - **Adiante:** [M02 — Juízo](../Modulo-02-Juizo/) (próxima operação do intelecto)
 - **Referência clássica:** Porfírio, *Isagoge* (Árvore de Porfírio); Aristóteles, *Categorias*
+
 
 ## Auto-reflexão
 

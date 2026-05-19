@@ -1,5 +1,17 @@
 # [01-01] Concepção — A Primeira Operação do Intelecto
 
+
+<!-- nav-sequencial -->
+> ← [Módulo 1 — Concepção (Primeira Operação do Intelecto)](01-00-Visao-Geral.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Objetos do Pensamento](01-02-Objetos-do-Pensamento.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Numa reunião de condomínio, alguém propõe: "Precisamos de mais *segurança*." Todos concordam com a cabeça. Mas quando chega a hora de decidir o que fazer, surgem propostas opostas: câmeras, portaria 24h, iluminação, cerca elétrica. Ninguém discordou da palavra "segurança", mas cada um tinha captado algo diferente. O problema não estava no argumento ainda. Estava na primeira operação do intelecto: ninguém havia apreendido o mesmo conceito de "segurança" antes de começar a julgar e decidir.
@@ -65,11 +77,11 @@ A Lógica clássica trata a concepção como *arte*: não se domina de uma vez, 
 Na próxima sessão, veremos *sobre o que* a concepção se debruça: os objetos do pensamento, reais e ideais, que alimentam todo conceito que formamos. Sem objeto, não há matéria para o intelecto apreender.
 
 ## Conexões
-
-- **Anterior:** [01-00 — Visão Geral](01-00-Visao-Geral.md) (mapa do módulo)
-- **Próximo:** [01-02 — Objetos do Pensamento](01-02-Objetos-do-Pensamento.md) (sobre o que a concepção se debruça)
+- **Anterior:** [Módulo 1 — Concepção (Primeira Operação do Intelecto)](01-00-Visao-Geral.md)
+- **Próximo:** [Objetos do Pensamento](01-02-Objetos-do-Pensamento.md)
 - **Adiante:** [01-03 — O Conceito](01-03-Conceito.md) (produto detalhado da concepção)
 - **Referência clássica:** Aristóteles, *De Anima* (sobre as operações do intelecto)
+
 
 ## Auto-reflexão
 

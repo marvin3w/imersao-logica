@@ -1,5 +1,17 @@
 # [03-03] Forma Lógica Própria
 
+
+<!-- nav-sequencial -->
+> ← [Distribuição e Regras](03-02-Distribuicao-e-Regras.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Relações, Oposição e Edução (1)](03-04-Relacoes-Oposicao-Educao-1.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Dois argumentos parecem diferentes: "Todo homem é mortal; Sócrates é homem; logo Sócrates é mortal" e "Todo metal conduz calor; o cobre é metal; logo o cobre conduz calor." Mas a *estrutura* é idêntica. Reconhecer essa identidade estrutural é reconhecer a **forma lógica própria**: o esqueleto do argumento, independente do assunto.
@@ -65,11 +77,11 @@ Oradores trocam ordem das premissas por ênfase. A forma lógica própria perman
 Alguém poderia objetar: "Mas 'Sócrates é homem' e 'O cobre é metal' falam de coisas totalmente diferentes." Verdade no conteúdo, falso na forma. Ambos seguem o padrão "S é M" na premissa menor de uma 1ª figura. A validade depende da forma, não do tema.
 
 ## Conexões
-
-- **Anterior:** [03-02 — Distribuição e Regras](03-02-Distribuicao-e-Regras.md)
-- **Próximo:** [03-04 — Relações, Oposição e Edução (1)](03-04-Relacoes-Oposicao-Educao-1.md)
+- **Anterior:** [Distribuição e Regras](03-02-Distribuicao-e-Regras.md)
+- **Próximo:** [Relações, Oposição e Edução (1)](03-04-Relacoes-Oposicao-Educao-1.md)
 - **Adiante:** Modos por figura (Barbara, Celarent…) em [03-13 — Tipos de Silogismo](03-13-Tipos-de-Silogismo.md)
 - **Referência clássica:** Aristóteles, *Analíticos Próprios*, I.4-7
+
 
 ## Auto-reflexão
 

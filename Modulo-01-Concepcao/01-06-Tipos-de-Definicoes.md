@@ -1,5 +1,17 @@
 # [01-06] Tipos de Definições
 
+
+<!-- nav-sequencial -->
+> ← [Definição e Regras](01-05-Definicao-e-Regras.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Divisão e Regras](01-07-Divisao-e-Regras.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Um casal discute onde morar. Ela diz: "Quero um bairro *seguro*." Ele concorda, mas quando ela explica (pouco trânsito, vizinhos conhecidos, iluminação), ele percebe que seu "seguro" significava (baixo índice de criminalidade). Mesma palavra, definições diferentes. Saber *que tipo* de definição cada um está usando evita acordos aparentes que desmoronam na execução.
@@ -76,10 +88,10 @@ Num edital de concurso, "experiência profissional" pode ter definição context
 Numa biblioteca comunitária, definir "livro raro" contextualmente (mais de 50 anos *e* menos de 5 exemplares no acervo) evita disputas que uma definição lexical ("livro difícil de encontrar") não resolveria.
 
 ## Conexões
-
-- **Anterior:** [01-05 — Definição e Regras](01-05-Definicao-e-Regras.md) (estrutura e regras gerais)
-- **Próximo:** [01-07 — Divisão e Regras](01-07-Divisao-e-Regras.md) (a outra ferramenta: decompor conceitos)
+- **Anterior:** [Definição e Regras](01-05-Definicao-e-Regras.md)
+- **Próximo:** [Divisão e Regras](01-07-Divisao-e-Regras.md)
 - **Referência clássica:** Aristóteles, *Metafísica* (causas e essência); Boécio (definição nominal vs. real)
+
 
 ## Auto-reflexão
 

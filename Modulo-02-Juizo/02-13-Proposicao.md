@@ -1,5 +1,17 @@
 # [02-13] A Proposição
 
+
+<!-- nav-sequencial -->
+> ← [Discursos](02-12-Discursos.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Proposições Compostas (I) — Conjuntiva, Disjuntiva e Condicional](02-14-Proposicoes-Compostas-1.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Argumentos são cadeias de proposições. Se você não reconhece uma proposição mal formada ("justiça rápida e barata"), aceita premissas que não são asserções e conclui sobre fundamento retórico. Dominar a proposição é dominar a moeda do raciocínio.
@@ -58,10 +70,10 @@ Língua escrita académica nominaliza verbos: "A destruição da floresta" em ve
 "Triângulo é figura de três lados" — definitional; estabelece essência, não reporta facto empírico. "Este triângulo é equilátero" — asserção sobre indivíduo. Misturar tipos em refutação gera straw man: criticar definição como se fosse previsão empírica.
 
 ## Conexões
-
-- **Anterior:** [02-12 — Discursos](02-12-Discursos.md)
-- **Próximo:** [02-14 — Proposições Compostas 1](02-14-Proposicoes-Compostas-1.md)
+- **Anterior:** [Discursos](02-12-Discursos.md)
+- **Próximo:** [Proposições Compostas (I) — Conjuntiva, Disjuntiva e Condicional](02-14-Proposicoes-Compostas-1.md)
 - **Referência:** Aristóteles, *Analíticos Primeros* I.1
+
 
 ## Auto-reflexão
 

@@ -1,5 +1,17 @@
 # [03-16] Silogismos Compostos (1)
 
+
+<!-- nav-sequencial -->
+> ← [Silogismos Complexos (2)](03-15-Silogismos-Complexos-2.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Silogismos Compostos (2)](03-17-Silogismos-Compostos-2.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Raramente paramos num silogismo único. Encadeamos: "Todo A é B. Todo B é C. Todo C é D. Logo…" Cada passo é válido isoladamente, mas o **encadeamento** exige regras próprias. **Polissilogismo** é a cadeia em que a conclusão de um silogismo vira premissa do próximo.
@@ -64,10 +76,10 @@ Cada seta é um silogismo completo com suas regras. Pular a verificação de um 
 Em textos longos (pareceres, petições, demonstrações), expandir o polissilogismo torna o argumento **auditável**. Em conversa, o sorites ([03-17](03-17-Silogismos-Compostos-2.md)) abrevia. Escolha explícita entre forma expandida e abreviada depende do público: especialistas exigem elos visíveis; leigos toleram abreviação se a conclusão for prudente.
 
 ## Conexões
-
-- **Anterior:** [03-15 — Silogismos Complexos (2)](03-15-Silogismos-Complexos-2.md)
-- **Próximo:** [03-17 — Silogismos Compostos (2)](03-17-Silogismos-Compostos-2.md) (sorites, proslipsis, epagoge)
+- **Anterior:** [Silogismos Complexos (2)](03-15-Silogismos-Complexos-2.md)
+- **Próximo:** [Silogismos Compostos (2)](03-17-Silogismos-Compostos-2.md)
 - **Referência clássica:** Aristóteles, *Analíticos Próprios*; lógica escolástica
+
 
 ## Auto-reflexão
 

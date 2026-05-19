@@ -1,5 +1,17 @@
 # [03-01] Formas AEIO
 
+
+<!-- nav-sequencial -->
+> ← [Módulo 3 — Raciocínio Dedutivo](03-00-Visao-Geral.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Distribuição e Regras](03-02-Distribuicao-e-Regras.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Numa discussão sobre política, alguém diz: "Alguns políticos são corruptos." Outro responde: "Então nem todos são honestos." A troca parece coerente, mas será que as duas frases dizem a mesma coisa? Depende da *forma* lógica de cada proposição. Sem identificar a forma, você troca conclusões, generaliza onde só cabe particular, e perde o controle do argumento.
@@ -58,11 +70,11 @@ Num planejamento de viagem: "Todos os hotéis baratos são longe do centro" (A) 
 Nas três proposições de um silogismo, cada uma tem forma AEIO. O **modo** do silogismo (Barbara = AAA, Celarent = EAE…) é justamente a sequência de formas na maior, menor e conclusão ([03-13](03-13-Tipos-de-Silogismo.md)). Rotular AEIO não é exercício escolar: é pré-requisito para aplicar regras de distribuição e validade.
 
 ## Conexões
-
-- **Anterior:** [M02 — Proposições categóricas](../Modulo-02-Juizo/) (introdução às formas)
-- **Próximo:** [03-02 — Distribuição e Regras](03-02-Distribuicao-e-Regras.md) (como os termos se comportam em cada forma)
+- **Anterior:** [Módulo 3 — Raciocínio Dedutivo](03-00-Visao-Geral.md)
+- **Próximo:** [Distribuição e Regras](03-02-Distribuicao-e-Regras.md)
 - **Adiante:** O Quadrado das Oposições ([03-04](03-04-Relacoes-Oposicao-Educao-1.md)) relaciona as quatro formas entre si
 - **Referência clássica:** Aristóteles, *De Interpretatione*; Boécio, comentários ao *Isagoge*
+
 
 ## Auto-reflexão
 

@@ -1,5 +1,17 @@
 # [02-19] Proposições Verdadeiras, Falsas e Predicativas
 
+
+<!-- nav-sequencial -->
+> ← [Proposições Empíricas, Gerais e Totais](02-18-Proposicoes-Empiricas-Gerais.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Verdade Lógica, Ontológica e Moral](02-20-Verdade-Logica-Ontologica-Moral.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Verdadeiro para mim" dilui critério. Lógica clássica define verdade como **adequação do intelecto à coisa**: proposição verdadeira quando o que se enuncia corresponde ao que é. Sem critério, debate vira troca de narrativas sem veredito possível.
@@ -45,10 +57,10 @@ Sistema coerente internamente pode ser materialmente falso (ficção bem escrita
 Alfred Tarski formalizou correspondência no século XX; tradição aristotélica-tomista já operava o critério semanticamente. Convergência confirma robustez do conceito através dos séculos.
 
 ## Conexões
-
-- **Anterior:** [02-18 — Empíricas e Gerais](02-18-Proposicoes-Empiricas-Gerais.md)
-- **Próximo:** [02-20 — Tríade da Verdade](02-20-Verdade-Logica-Ontologica-Moral.md)
+- **Anterior:** [Proposições Empíricas, Gerais e Totais](02-18-Proposicoes-Empiricas-Gerais.md)
+- **Próximo:** [Verdade Lógica, Ontológica e Moral](02-20-Verdade-Logica-Ontologica-Moral.md)
 - **Referência:** Aristóteles, *Metafísica* Γ 7; Tomás de Aquino, *De Veritate*
+
 
 ## Proposição tautológica
 

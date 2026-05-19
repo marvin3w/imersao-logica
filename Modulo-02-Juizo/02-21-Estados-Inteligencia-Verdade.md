@@ -1,5 +1,17 @@
 # [02-21] Estados da Inteligência Diante da Verdade
 
+
+<!-- nav-sequencial -->
+> ← [Verdade Lógica, Ontológica e Moral](02-20-Verdade-Logica-Ontologica-Moral.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Módulo 3 — Raciocínio Dedutivo](../Modulo-03-Raciocinio-Dedutivo/03-00-Visao-Geral.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Você não sabe se deve aceitar emprego (dúvida). Acredita que vai chover, mas leva guarda-chuva "por via das dúvidas" (opinião). Sabe que 2+2=4 (certeza). Tratar dúvida como certeza ou opinião como demonstração corrompe decisões. Mapear **estados epistêmicos** disciplina quando agir e quando investigar mais.
@@ -61,10 +73,10 @@ Retrocesso possível: certeza refutada volta a dúvida ou opinião corrigida.
 Investimento, medicina, voto: pergunte em qual estado você está. Opinião exige margem de segurança; certeza metafísica rara fora de matemática e alguns princípios. Agir com certeza retórica sobre opinião probabilística é imprudência lógica, não "firmeza de caráter".
 
 ## Conexões
-
-- **Anterior:** [02-20 — Tríade da Verdade](02-20-Verdade-Logica-Ontologica-Moral.md)
-- **Próximo:** [M03 — Raciocínio Dedutivo](../Modulo-03-Raciocinio-Dedutivo/03-00-Visao-Geral.md)
+- **Anterior:** [Verdade Lógica, Ontológica e Moral](02-20-Verdade-Logica-Ontologica-Moral.md)
+- **Próximo:** [Módulo 3 — Raciocínio Dedutivo](../Modulo-03-Raciocinio-Dedutivo/03-00-Visao-Geral.md)
 - **Referência:** Aristóteles, *Tópicos*; Tomás de Aquino, *De Veritate*; relatorio-exaustivo, Aulas 35-36
+
 
 ## Auto-reflexão
 

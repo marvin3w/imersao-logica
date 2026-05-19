@@ -1,5 +1,17 @@
 # [02-14] Proposições Compostas (I) — Conjuntiva, Disjuntiva e Condicional
 
+
+<!-- nav-sequencial -->
+> ← [A Proposição](02-13-Proposicao.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Proposições Compostas (II) — Exclusiva, Exceptiva e Reduplicativa](02-15-Proposicoes-Compostas-2.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Se chover, levo guarda-chuva e cancelo o piquenique." Uma frase, três juízos entrelaçados. Desmontar proposições compostas em simples é pré-requisito para avaliar validade: silogismo clássico exige premissas categóricas ou hipotéticas bem identificadas.
@@ -59,10 +71,10 @@ Condicional falso **apenas** quando antecedente verdadeiro e consequente falso (
 "Se chove, a rua molha" sugere causa; logicamente, afirma apenas implicação. Causa reforça condicional, mas condicional pode ser verdadeiro sem causalidade directa ("Se 2+2=4, então Paris é capital da França"). Não confundir implicação lógica com causalidade empírica.
 
 ## Conexões
-
-- **Anterior:** [02-13 — Proposição](02-13-Proposicao.md)
-- **Próximo:** [02-15 — Proposições Compostas 2](02-15-Proposicoes-Compostas-2.md) (exclusiva, exceptiva, reduplicativa)
+- **Anterior:** [A Proposição](02-13-Proposicao.md)
+- **Próximo:** [Proposições Compostas (II) — Exclusiva, Exceptiva e Reduplicativa](02-15-Proposicoes-Compostas-2.md)
 - **Adiante:** [M03 — Silogismo hipotético](../Modulo-03-Raciocinio-Dedutivo/)
+
 
 ## Disjuntiva falsa
 

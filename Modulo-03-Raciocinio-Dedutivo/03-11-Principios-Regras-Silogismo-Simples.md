@@ -1,5 +1,17 @@
 # [03-11] Princípios e Regras do Silogismo Simples
 
+
+<!-- nav-sequencial -->
+> ← [Argumento Dedutivo](03-10-Argumento-Dedutivo.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Consequência Boa e Má](03-12-Consequencia-Boa-Ma.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Dois silogismos parecem igualmente plausíveis. Um conclui corretamente; o outro esconde uma falácia formal. A diferença não está no assunto, mas nas **regras** que governam a ligação entre termos. Sem dominar princípios e regras do silogismo simples, você aceita conclusões que *soam* lógicas mas violam a estrutura que Aristóteles mapeou há dois milênios.
@@ -83,11 +95,11 @@ As Regras 5 e 6 são corolários das Regras 3 e 4, mas ensinam-se separadamente 
 Numa reunião: "Todo projeto atrasado perde financiamento. Algum projeto do setor X está atrasado. Logo, algum projeto do setor X perde financiamento." Verifique: três termos? M ("atrasado") distribuído na maior (A)? Conclusão parcial porque premissa menor é I? Se sim, silogismo válido na 1ª figura. Se alguém concluir "Todo projeto do setor X perde financiamento", viola a Regra 5.
 
 ## Conexões
-
-- **Anterior:** [03-10 — Argumento Dedutivo](03-10-Argumento-Dedutivo.md)
-- **Próximo:** [03-12 — Consequência Boa e Má](03-12-Consequencia-Boa-Ma.md)
+- **Anterior:** [Argumento Dedutivo](03-10-Argumento-Dedutivo.md)
+- **Próximo:** [Consequência Boa e Má](03-12-Consequencia-Boa-Ma.md)
 - **Retorno:** Distribuição em [03-02](03-02-Distribuicao-e-Regras.md); princípios em [03-06](03-06-Principios-Logicos-Primeiros.md)
 - **Referência clássica:** Aristóteles, *Analíticos Próprios*; escolástica medieval (modos mnemotécnicos)
+
 
 ## Auto-reflexão
 

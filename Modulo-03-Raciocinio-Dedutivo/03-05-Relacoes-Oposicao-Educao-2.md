@@ -1,5 +1,17 @@
 # [03-05] Relações, Oposição e Edução (2)
 
+
+<!-- nav-sequencial -->
+> ← [Relações, Oposição e Edução (1)](03-04-Relacoes-Oposicao-Educao-1.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Princípios Lógicos Primeiros](03-06-Principios-Logicos-Primeiros.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Alguém afirma: "Todo poeta é criativo." Você precisa reformular isso como "Algum criativo é poeta" para encaixar num silogismo. A operação é legítima? Depende da **educção**: a arte de derivar uma proposição de outra sem mudar a verdade. Sem educção, você reformula argumentos às cegas e invalida silogismos que estavam corretos, ou valida os que estavam errados.
@@ -65,11 +77,11 @@ Combina obversão com conversão. Válida para **A** e **O**:
 Numa negociação: "Nenhum produto defeituoso será aceito." Por contraposição: "Todo produto aceito não é defeituoso." A segunda forma pode ser mais clara para redigir cláusulas. Sem educção, a reformulação pode alterar o sentido sem que ninguém perceba.
 
 ## Conexões
-
-- **Anterior:** [03-04 — Relações, Oposição e Edução (1)](03-04-Relacoes-Oposicao-Educao-1.md) (oposição)
-- **Próximo:** [03-06 — Princípios Lógicos Primeiros](03-06-Principios-Logicos-Primeiros.md)
+- **Anterior:** [Relações, Oposição e Edução (1)](03-04-Relacoes-Oposicao-Educao-1.md)
+- **Próximo:** [Princípios Lógicos Primeiros](03-06-Principios-Logicos-Primeiros.md)
 - **Adiante:** Inferência imediata vs. mediata em [03-09 — Tipos de Inferência](03-09-Tipos-de-Inferencia.md)
 - **Referência clássica:** Aristóteles, *Analíticos Próprios*, I.2; Ockham, *Summa Logicae*
+
 
 ## Auto-reflexão
 

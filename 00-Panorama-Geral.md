@@ -1,5 +1,17 @@
 # [00] Panorama Geral: Lógica Clássica
 
+<!-- nav-sequencial -->
+> [Índice](README.md) · [Módulo 0 — Fundamentos e Natureza da Lógica](Modulo-00-Fundamentos/00-00-Visao-Geral.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
+
 ## O que é este material?
 
 Um guia progressivo de Lógica Clássica, organizado em torno das **Três Operações do Intelecto**: Concepção, Juízo e Raciocínio. Cada operação corresponde a uma capacidade fundamental do pensamento humano, e dominá-las na ordem certa é o que permite pensar com clareza e argumentar com rigor.

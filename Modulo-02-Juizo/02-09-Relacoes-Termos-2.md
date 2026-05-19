@@ -1,5 +1,17 @@
 # [02-09] Relações entre Termos (II) — Ampliação, Restrição e Suposição
 
+
+<!-- nav-sequencial -->
+> ← [Relações entre Termos (I) — Contradição, Contrariedade e Privação](02-08-Relacoes-Termos-1.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Suplência (Suposição)](02-10-Suplencia.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Numa conversa, alguém começa falando de "animal", depois restringe a "cachorro", depois amplia de novo para "mamífero". A proposição muda de extensão a cada passo, mas a palavra pode permanecer similar. Sem rastrear **alterações de termo**, você concorda com uma afirmação e descobre que assinou outra.
@@ -52,10 +64,10 @@ Exemplo válido de restrição licenciada: premissa "Todo animal é mortal"; pre
 Em textos extensos (artigos, petições), marque mentalmente cada ocorrência-chave de termo polissêmico. Argumentos jurídicos falham frequentemente por alteração de suposição entre artigos distantes: "pessoa" como sujeito de direitos vs. "pessoa" como entidade com fins lucrativos.
 
 ## Conexões
-
-- **Anterior:** [02-08 — Relações de Termos 1](02-08-Relacoes-Termos-1.md)
-- **Próximo:** [02-10 — Suplência](02-10-Suplencia.md)
+- **Anterior:** [Relações entre Termos (I) — Contradição, Contrariedade e Privação](02-08-Relacoes-Termos-1.md)
+- **Próximo:** [Suplência (Suposição)](02-10-Suplencia.md)
 - **Referência:** Porfírio, *Isagoge* (predicables e movimento gênero-espécie)
+
 
 ## Alteração ilícita: exemplo completo
 

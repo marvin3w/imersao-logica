@@ -1,5 +1,17 @@
 # [02-04] Tipos de Termos (I) — Empíricos, Gerais e Existência
 
+
+<!-- nav-sequencial -->
+> ← [O Sinal](02-03-Sinal.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Tipos de Termos (II) — Simples e Complexo (*Re* e *Voce*)](02-05-Tipos-de-Termos-2.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Homem é mortal" e "Sócrates é mortal" parecem proposições do mesmo tipo, mas operam em níveis diferentes de universalidade. A primeira fala de toda a espécie; a segunda, de um indivíduo. Generalizar a partir de Sócrates ("Sócrates morreu, logo todos morrem *da mesma forma*") comete erro de escopo. Classificar termos por extensão evita esse salto.
@@ -49,10 +61,10 @@ Num conto de fadas, "todo unicórnio é imortal" pode ser proposição geral den
 Se os sentidos só captam singulares, como o intelecto forma termos gerais? Resposta clássica: **abstração** ([01-02](../Modulo-01-Concepcao/01-02-Objetos-do-Pensamento.md)). Os sentidos fornecem matéria; o intelecto isola essência. Termo geral é vestimenta linguística dessa operação.
 
 ## Conexões
-
-- **Anterior:** [02-03 — Sinal](02-03-Sinal.md)
-- **Próximo:** [02-05 — Tipos de Termos 2](02-05-Tipos-de-Termos-2.md) (simples/complexo *re* e *voce*)
+- **Anterior:** [O Sinal](02-03-Sinal.md)
+- **Próximo:** [Tipos de Termos (II) — Simples e Complexo (*Re* e *Voce*)](02-05-Tipos-de-Termos-2.md)
 - **Referência:** [01-03 — Conceito](../Modulo-01-Concepcao/01-03-Conceito.md) (intensão/extensão)
+
 
 ## Termo próprio vs. termo comum
 

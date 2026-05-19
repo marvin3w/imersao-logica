@@ -1,5 +1,17 @@
 # [01-05] Definição e Regras
 
+
+<!-- nav-sequencial -->
+> ← [Tipos de Conceitos](01-04-Tipos-de-Conceitos.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Tipos de Definições](01-06-Tipos-de-Definicoes.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Numa assembleia, alguém propõe: "Vamos proibir *propaganda enganosa*." Todos votam a favor. Semanas depois, surgem conflitos: afinal, o que é "propaganda"? O que é "enganosa"? Sem definição compartilhada, a regra aprovada é inaplicável. Cada um interpreta à sua maneira, e a decisão coletiva vira fonte de disputa, não de ordem.
@@ -84,10 +96,10 @@ Além de gênero e diferença, Aristóteles identificou **quatro causas** que po
 Numa conversa sobre "por que este bairro decaiu?", cada interlocutor pode estar apontando uma causa diferente (infraestrutura = material; planejamento = formal; gestão = eficiente; falta de comércio = final). Definir *qual causa* está em jogo organiza o debate.
 
 ## Conexões
-
-- **Anterior:** [01-04 — Tipos de Conceitos](01-04-Tipos-de-Conceitos.md) (qualidade dos conceitos a definir)
-- **Próximo:** [01-06 — Tipos de Definições](01-06-Tipos-de-Definicoes.md) (variedades de definição)
+- **Anterior:** [Tipos de Conceitos](01-04-Tipos-de-Conceitos.md)
+- **Próximo:** [Tipos de Definições](01-06-Tipos-de-Definicoes.md)
 - **Referência clássica:** Aristóteles, *Topoi* e *Metafísica* (gênero, diferença e causas)
+
 
 ## Auto-reflexão
 

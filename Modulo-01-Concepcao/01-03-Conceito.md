@@ -1,5 +1,17 @@
 # [01-03] O Conceito
 
+
+<!-- nav-sequencial -->
+> ← [Objetos do Pensamento](01-02-Objetos-do-Pensamento.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Tipos de Conceitos](01-04-Tipos-de-Conceitos.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Imagine três pessoas discutindo se uma decisão foi "justa". Uma delas entende "justo" como *igual para todos*. A outra entende como *proporcional ao mérito*. A terceira, como *proteção ao mais vulnerável*. As três estão falando com convicção, mas nenhuma está falando da mesma coisa. A conversa esquenta, ninguém cede, e no final todos saem frustrados, achando que os outros são teimosos ou desonestos. O problema não era moral. Era lógico: estavam operando com conceitos diferentes sob a mesma palavra.
@@ -114,11 +126,11 @@ Lembre da discussão do início: três pessoas, três conceitos de "justo", zero
 Na próxima vez que uma discussão travar, pergunte: "estamos usando essa palavra com o mesmo conceito?" Boa parte dos desentendimentos se resolve quando as duas partes percebem que estavam operando com intensões diferentes para o mesmo termo.
 
 ## Conexões
-
-- **Anterior:** [01-02 — Objetos do Pensamento](01-02-Objetos-do-Pensamento.md) (sobre o que o conceito se debruça)
-- **Próximo:** [01-04 — Tipos de Conceitos](01-04-Tipos-de-Conceitos.md) (classificações dos conceitos)
+- **Anterior:** [Objetos do Pensamento](01-02-Objetos-do-Pensamento.md)
+- **Próximo:** [Tipos de Conceitos](01-04-Tipos-de-Conceitos.md)
 - **Adiante:** A Lei da Razão Inversa reaparece em [M02 — Distribuição e Regras](../Modulo-03-Raciocinio-Dedutivo/) quando estudarmos a distribuição de termos em proposições
 - **Referência clássica:** Aristóteles, *Categorias*; Porfírio, *Isagoge* (a "Árvore de Porfírio" que organiza gêneros e espécies)
+
 
 ## Auto-reflexão
 

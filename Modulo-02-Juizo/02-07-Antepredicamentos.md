@@ -1,5 +1,17 @@
 # [02-07] Antepredicamentos
 
+
+<!-- nav-sequencial -->
+> ← [Tipos de Termos (III) — Completude e Modos Suplementares](02-06-Tipos-de-Termos-3.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Relações entre Termos (I) — Contradição, Contrariedade e Privação](02-08-Relacoes-Termos-1.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Antes de perguntar "Pedro é alto?" (quantidade), você pressupõe que Pedro *é um* (unidade), que *existe*, que *é finito* em certos aspectos. Esses pressupostos não aparecem nos Dez Predicamentos, mas sustentam qualquer predicação. Sem eles, categorias flutuam no vazio.
@@ -46,10 +58,10 @@ Reconhecer antepredicamentos ajuda a traduzir metáforas: "A empresa morreu" —
 Semeador olha semente (potentia árvore) e planifica colheita (actus futuro). Juízo modal "pode ser" descreve transição ontologicamente real na tradição aristotélica, não mera ignorância epistémica. Distinção relevante em educação: aluno *pode ser* matemático (potentia) vs. aluno *é* matemático (actus actual).
 
 ## Conexões
-
-- **Anterior:** [02-06 — Tipos de Termos 3](02-06-Tipos-de-Termos-3.md)
-- **Próximo:** [02-08 — Relações de Termos 1](02-08-Relacoes-Termos-1.md)
+- **Anterior:** [Tipos de Termos (III) — Completude e Modos Suplementares](02-06-Tipos-de-Termos-3.md)
+- **Próximo:** [Relações entre Termos (I) — Contradição, Contrariedade e Privação](02-08-Relacoes-Termos-1.md)
 - **Referência clássica:** Aristóteles, *Metafísica* (livro Γ sobre o ser); Tomás de Aquino, comentários às *Categorias*
+
 
 ## Non-ens e proposição
 

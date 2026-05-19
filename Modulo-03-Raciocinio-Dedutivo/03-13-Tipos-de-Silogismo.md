@@ -1,5 +1,17 @@
 # [03-13] Tipos de Silogismo
 
+
+<!-- nav-sequencial -->
+> ← [Consequência Boa e Má](03-12-Consequencia-Boa-Ma.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Silogismos Complexos (1)](03-14-Silogismos-Complexos-1.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Dois silogismos válidos têm estruturas diferentes: um encaixa na 1ª figura, outro na 2ª. Saber **qual figura** e **qual modo** não é pedantismo acadêmico: cada figura tem regras especiais ([03-11](03-11-Principios-Regras-Silogismo-Simples.md)), e reconhecer o modo (Barbara, Celarent…) acelera a verificação de validade.
@@ -63,11 +75,11 @@ Silogismos válidos em figuras 2ª, 3ª ou 4ª podem ser **reduzidos** à 1ª fi
 Memorizar a lista completa de modos válidos é exercício escolástico valioso, mas secundário para uso crítico. O essencial é saber **testar** qualquer silogismo pelas regras gerais.
 
 ## Conexões
-
-- **Anterior:** [03-12 — Consequência Boa e Má](03-12-Consequencia-Boa-Ma.md)
-- **Próximo:** [03-14 — Silogismos Complexos (1)](03-14-Silogismos-Complexos-1.md)
+- **Anterior:** [Consequência Boa e Má](03-12-Consequencia-Boa-Ma.md)
+- **Próximo:** [Silogismos Complexos (1)](03-14-Silogismos-Complexos-1.md)
 - **Retorno:** Figuras em [03-03](03-03-Forma-Logica-Propria.md); regras por figura em [03-11](03-11-Principios-Regras-Silogismo-Simples.md)
 - **Referência clássica:** Pseudo-Robert Kilwardby; mnemônicos escolásticos (Barbara, Celarent)
+
 
 ## Auto-reflexão
 

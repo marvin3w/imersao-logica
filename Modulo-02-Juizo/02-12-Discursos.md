@@ -1,5 +1,17 @@
 # [02-12] Discursos
 
+
+<!-- nav-sequencial -->
+> ← [O Juízo](02-11-Juizo.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [A Proposição](02-13-Proposicao.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Feche a porta." "Que horas são?" "Oxalá chova amanhã." Três frases completas em português, mas apenas uma delas *afirma ou nega* algo de modo que possa ser verdadeira ou falsa. Confundir ordem com asserção, ou desejo com juízo, invalida análise argumentativa desde a base.
@@ -56,10 +68,10 @@ Pergunta retórica simula interrogativo mas pressupõe juízo: "Quem não quer s
 Schopenhauer, na *Erística*, cataloga perguntas retóricas entre artifícios de debate; resposta lógica: recusar assentimento até proposição afirmativa explícita.
 
 ## Conexões
-
-- **Anterior:** [02-11 — Juízo](02-11-Juizo.md)
-- **Próximo:** [02-13 — Proposição](02-13-Proposicao.md)
+- **Anterior:** [O Juízo](02-11-Juizo.md)
+- **Próximo:** [A Proposição](02-13-Proposicao.md)
 - **Referência:** Aristóteles, *De Interpretatione* (oratio et enuntiatio)
+
 
 ## Aplicação prática (fecho)
 

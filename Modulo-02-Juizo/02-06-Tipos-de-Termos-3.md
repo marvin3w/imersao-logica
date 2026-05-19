@@ -1,5 +1,17 @@
 # [02-06] Tipos de Termos (III) — Completude e Modos Suplementares
 
+
+<!-- nav-sequencial -->
+> ← [Tipos de Termos (II) — Simples e Complexo (*Re* e *Voce*)](02-05-Tipos-de-Termos-2.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Antepredicamentos](02-07-Antepredicamentos.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Dois interlocutores usam "justiça" num debate. Um fala de justiça distributiva; outro, de justiça retributiva. A palavra é idêntica; os termos, incompletos ou mal delimitados. Termos incompletos geram acordos aparentes e discordâncias reais.
@@ -53,10 +65,10 @@ Explicitar modo de suposição transforma slogan em proposição determinada.
 Em silogismo, predicar essência permite inferências necessárias dentro do gênero; predicar acidente permite apenas probabilidade ou verdade contingente. "Todo homem é racional" (essência); "Todo homem é alto" (acidente — falso universalmente). Classificar termo antes de quantificar evita universalizar propriedade acidental.
 
 ## Conexões
-
-- **Anterior:** [02-05 — Tipos de Termos 2](02-05-Tipos-de-Termos-2.md)
-- **Próximo:** [02-07 — Antepredicamentos](02-07-Antepredicamentos.md)
+- **Anterior:** [Tipos de Termos (II) — Simples e Complexo (*Re* e *Voce*)](02-05-Tipos-de-Termos-2.md)
+- **Próximo:** [Antepredicamentos](02-07-Antepredicamentos.md)
 - **Referência:** [01-04 — Tipos de Conceitos](../Modulo-01-Concepcao/01-04-Tipos-de-Conceitos.md)
+
 
 ## Termos anônimos e indexicais
 

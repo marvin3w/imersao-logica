@@ -1,5 +1,17 @@
 # [01-08] Tipos de Divisão
 
+
+<!-- nav-sequencial -->
+> ← [Divisão e Regras](01-07-Divisao-e-Regras.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Módulo 2 — Juízo (Segunda Operação do Intelecto)](../Modulo-02-Juizo/02-00-Visao-Geral.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Um médico diz ao paciente: "Precisamos dividir o tratamento em duas partes." O paciente imagina duas fases temporais. Na verdade, o médico quer separar medicamento e fisioterapia. Outro profissional fala em "dividir a equipe ao meio" (partes físicas reais). Usar o mesmo verbo para operações diferentes gera expectativas erradas. Distinguir tipos de divisão é distinguir *modos diferentes* de partir um todo.
@@ -77,10 +89,10 @@ Com divisão, completamos o ciclo da Concepção: apreendemos objetos, formamos 
 Na próxima vez que uma conversa travar, percorra o checklist do módulo: o conceito está claro? A definição é circular? A divisão mistura critérios? Muitas vezes, o impasse se resolve antes de chegar ao argumento.
 
 ## Conexões
-
-- **Anterior:** [01-07 — Divisão e Regras](01-07-Divisao-e-Regras.md) (regras gerais da divisão)
-- **Próximo:** [M02 — Juízo](../Modulo-02-Juizo/) (segunda operação: proposições)
+- **Anterior:** [Divisão e Regras](01-07-Divisao-e-Regras.md)
+- **Próximo:** [Módulo 2 — Juízo (Segunda Operação do Intelecto)](../Modulo-02-Juizo/02-00-Visao-Geral.md)
 - **Referência clássica:** Porfírio, *Isagoge*; lógicos escolásticos (divisão essencial e acidental)
+
 
 ## Auto-reflexão
 

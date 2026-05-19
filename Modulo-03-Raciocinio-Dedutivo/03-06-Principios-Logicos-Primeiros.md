@@ -1,5 +1,17 @@
 # [03-06] Princípios Lógicos Primeiros
 
+
+<!-- nav-sequencial -->
+> ← [Relações, Oposição e Edução (2)](03-05-Relacoes-Oposicao-Educao-2.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Predicáveis](03-07-Predicaveis.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Alguém diz: "Fulano é honesto e desonesto ao mesmo tempo, dependendo do ponto de vista." Isso não é tolerância; é incoerência lógica. Sem os princípios lógicos primeiros, não há critério para distinguir raciocínio válido de contradição disfarçada de nuance. Esses princípios são o chão sobre o qual toda inferência se constrói.
@@ -60,11 +72,11 @@ Sem não-contradição, duas premissas afirmativas poderiam implicar conclusão 
 Alguém pode dizer que rigidez lógica ignora contexto. Resposta: os princípios operam **sob a mesma suposição** (M02, suplência). Mudar contexto ou definição não viola a lógica; usar a mesma palavra com sentidos diferentes *sem avisar* viola identidade. Nuance legítima explicita suposições; nuance obscura esconde contradição.
 
 ## Conexões
-
-- **Anterior:** [03-05 — Relações, Oposição e Edução (2)](03-05-Relacoes-Oposicao-Educao-2.md)
-- **Próximo:** [03-07 — Predicáveis](03-07-Predicaveis.md)
+- **Anterior:** [Relações, Oposição e Edução (2)](03-05-Relacoes-Oposicao-Educao-2.md)
+- **Próximo:** [Predicáveis](03-07-Predicaveis.md)
 - **Adiante:** Princípio da intensão no silogismo ([03-11](03-11-Principios-Regras-Silogismo-Simples.md)) deriva destes axiomas
 - **Referência clássica:** Aristóteles, *Metafísica*, Γ (Gamma); *De Interpretatione*
+
 
 ## Auto-reflexão
 

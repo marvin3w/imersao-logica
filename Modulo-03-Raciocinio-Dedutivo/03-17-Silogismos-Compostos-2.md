@@ -1,5 +1,17 @@
 # [03-17] Silogismos Compostos (2)
 
+
+<!-- nav-sequencial -->
+> ← [Silogismos Compostos (1)](03-16-Silogismos-Compostos-1.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Módulo 4 — Indução e Crítica Argumentativa](../Modulo-04-Inducao-Critica/04-00-Visao-Geral.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 Argumentos longos costumam ser apresentados compactos: "Todo A é B; todo B é C; todo C é D; logo, todo A é D." Sem escrever cada silogismo intermediário. Isso é **sorites**: polissilogismo abreviado. Dominá-lo fecha o M03 com a forma mais usada em demonstrações extensas, da matemática elementar à argumentação filosófica.
@@ -57,11 +69,11 @@ Será que suprimir passos é sempre falha? Não, se cada passo suprimido seria v
 Numa argumentação moral clássica: "Todo ato injusto é ilegítimo. Todo ilegítimo é condenável. Todo condenável deve ser evitado. Logo, todo ato injusto deve ser evitado." Sorites aristotélico. Antes de aceitar, expanda em três silogismos e verifique cada regra de [03-11](03-11-Principios-Regras-Silogismo-Simples.md). Um elo quebrado derruba toda a cadeia.
 
 ## Conexões
-
-- **Anterior:** [03-16 — Silogismos Compostos (1)](03-16-Silogismos-Compostos-1.md)
-- **Próximo:** [M04 — Indução e Crítica](../Modulo-04-Inducao-Critica/04-00-Visao-Geral.md)
+- **Anterior:** [Silogismos Compostos (1)](03-16-Silogismos-Compostos-1.md)
+- **Próximo:** [Módulo 4 — Indução e Crítica Argumentativa](../Modulo-04-Inducao-Critica/04-00-Visao-Geral.md)
 - **Retorno:** Enthymema e epicheirema em [03-09](03-09-Tipos-de-Inferencia.md)
 - **Referência clássica:** Goclenius; Aristóteles, encadeamentos no *Analíticos*
+
 
 ## Auto-reflexão
 

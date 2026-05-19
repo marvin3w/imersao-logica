@@ -1,5 +1,17 @@
 # [02-05] Tipos de Termos (II) — Simples e Complexo (*Re* e *Voce*)
 
+
+<!-- nav-sequencial -->
+> ← [Tipos de Termos (I) — Empíricos, Gerais e Existência](02-04-Tipos-de-Termos-1.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Tipos de Termos (III) — Completude e Modos Suplementares](02-06-Tipos-de-Termos-3.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Filósofo" é uma palavra só. Parece simples. Mas filósofo = homem + sabedoria (como atividade intelectual). Na análise lógica profunda, palavras de uma sílaba podem esconder conceitos múltiplos. Ignorar essa distinção produz definições circulares e silogismos com termos disfarçados.
@@ -46,10 +58,10 @@ Confundir syncategorema com termo gera análise errada: "todo" em "todo homem" n
 Antes de silogizar, habitue-se a perguntar: este termo, na voz e *re*, é simples ou complexo? A decomposição silenciosa evita quarto termo disfarçado. "Estudante aplicado" = estudante + hábito de aplicação; silogismo que troca "estudante" por "aplicado" sem licença falha.
 
 ## Conexões
-
-- **Anterior:** [02-04 — Tipos de Termos 1](02-04-Tipos-de-Termos-1.md)
-- **Próximo:** [02-06 — Tipos de Termos 3](02-06-Tipos-de-Termos-3.md)
+- **Anterior:** [Tipos de Termos (I) — Empíricos, Gerais e Existência](02-04-Tipos-de-Termos-1.md)
+- **Próximo:** [Tipos de Termos (III) — Completude e Modos Suplementares](02-06-Tipos-de-Termos-3.md)
 - **Referência:** [01-05 — Definição](../Modulo-01-Concepcao/01-05-Definicao-e-Regras.md)
+
 
 ## Exercício de decomposição
 

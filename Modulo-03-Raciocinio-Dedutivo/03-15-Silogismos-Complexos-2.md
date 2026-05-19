@@ -1,5 +1,17 @@
 # [03-15] Silogismos Complexos (2)
 
+
+<!-- nav-sequencial -->
+> ← [Silogismos Complexos (1)](03-14-Silogismos-Complexos-1.md) · [Panorama](../00-Panorama-Geral.md) · [Índice](../README.md) · [Silogismos Compostos (1)](03-16-Silogismos-Compostos-1.md) →
+<!-- /nav-sequencial -->
+
+
+
+
+
+
+
+
 ## Por que isso importa?
 
 "Ou vamos ao cinema, ou ficamos em casa." "Não fomos ao cinema." A conclusão "Ficamos em casa" parece óbvia, mas só é válida se a disjunção for **exclusiva** e **exaustiva**. Silogismos **disjuntivos** e **dilemas** governam esse tipo de raciocínio. Dominá-los evita falso dilema e falsa exclusão.
@@ -73,10 +85,10 @@ Escolha de escola: "Ou escola pública perto, ou escola particular longe." Pergu
 Advogados e debatedores usam dilemas para **forçar escolha**. A defesa lógica consiste em (1) mostrar opção omitida, (2) questionar condicional ("Se A, então C" é verdadeiro?), ou (3) rejeitar a disjunção inicial. Três pontos de crítica, três caminhos de escape legítimo.
 
 ## Conexões
-
-- **Anterior:** [03-14 — Silogismos Complexos (1)](03-14-Silogismos-Complexos-1.md)
-- **Próximo:** [03-16 — Silogismos Compostos (1)](03-16-Silogismos-Compostos-1.md)
+- **Anterior:** [Silogismos Complexos (1)](03-14-Silogismos-Complexos-1.md)
+- **Próximo:** [Silogismos Compostos (1)](03-16-Silogismos-Compostos-1.md)
 - **Referência clássica:** Cicero, *De Fato*; retórica clássica sobre dilema
+
 
 ## Auto-reflexão
 
