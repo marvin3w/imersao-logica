@@ -34,7 +34,7 @@ Material produzido a partir de um curso de Lógica em vídeo (53 aulas), com ree
 
 - **Repositório publicado:** [github.com/marvin3w/imersao-logica](https://github.com/marvin3w/imersao-logica)
 - **NotebookLM (fonte vídeo, extração):** [notebook original](https://notebooklm.google.com/notebook/871f7c12-1881-439b-8a3c-03913f2309ed)
-- **NotebookLM (curso publicado):** criar notebook "Imersão em Lógica Clássica" e inserir fontes via `python3 Meta-Marcus-Docs/Scripts/notebooklm-insere-fontes-logica.py`
+- **NotebookLM (curso publicado):** após Chrome CDP pessoal ativo, rodar `bash Meta-Marcus-Docs/Scripts/notebooklm-fase6-logica.sh` (ou passos em `Meta-Marcus-Docs/Scripts/notebooklm-logica-url.txt`)
 
 ## Recursos Interativos (NotebookLM Studio)
 
