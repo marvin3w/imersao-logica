@@ -1,5 +1,11 @@
 # [00-00] Módulo 0 — Fundamentos e Natureza da Lógica
 
+<!-- notebooklm-recursos -->
+> ### Recursos de Aprendizado — NotebookLM
+> Quiz, podcast, mapa mental e cartões didáticos deste módulo.
+> [Abrir notebook completo](https://notebooklm.google.com/notebook/PLACEHOLDER_LOGICA_NOTEBOOK)
+<!-- notebooklm-recursos -->
+
 ## Por que isso importa?
 
 Você já discutiu com alguém e sentiu que a conversa "não ia a lugar nenhum"? Ou ouviu um argumento que parecia convincente, mas algo estava errado e você não conseguia apontar o quê? A Lógica é a ferramenta que resolve exatamente isso. Ela não ensina *o que* pensar, mas *como* pensar de forma que suas conclusões realmente sigam das suas premissas.

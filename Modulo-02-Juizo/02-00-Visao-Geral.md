@@ -1,5 +1,11 @@
 # [02-00] Módulo 2 — Juízo (Segunda Operação do Intelecto)
 
+<!-- notebooklm-recursos -->
+> ### Recursos de Aprendizado — NotebookLM
+> Quiz, podcast, mapa mental e cartões didáticos deste módulo.
+> [Abrir notebook completo](https://notebooklm.google.com/notebook/PLACEHOLDER_LOGICA_NOTEBOOK)
+<!-- notebooklm-recursos -->
+
 ## Por que isso importa?
 
 No Módulo 1, você aprendeu a captar essências: o que é um triângulo, o que é justiça, o que distingue uma espécie de um gênero. Mas captar essências ainda não é dizer nada sobre elas. Você pode ter o conceito de "chuva" perfeitamente claro e, ao mesmo tempo, não saber se chove agora, se choveu ontem ou se choverá amanhã.

@@ -1,5 +1,11 @@
 # [04-00] Módulo 4 — Indução e Crítica Argumentativa
 
+<!-- notebooklm-recursos -->
+> ### Recursos de Aprendizado — NotebookLM
+> Quiz, podcast, mapa mental e cartões didáticos deste módulo.
+> [Abrir notebook completo](https://notebooklm.google.com/notebook/PLACEHOLDER_LOGICA_NOTEBOOK)
+<!-- notebooklm-recursos -->
+
 ## Por que isso importa?
 
 Você observa dez casos, generaliza para o milésimo primeiro, e erra. Ou observa mil casos, generaliza com prudência, e acerta. A diferença não é "intuição": é **indução bem ou mal conduzida**. A dedução (M03) garante conclusão *se* as premissas forem verdadeiras e a forma válida. A indução trabalha onde não há termo médio: parte de casos observados para inferir algo sobre o todo.

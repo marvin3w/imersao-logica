@@ -1,5 +1,11 @@
 # [03-00] Módulo 3 — Raciocínio Dedutivo
 
+<!-- notebooklm-recursos -->
+> ### Recursos de Aprendizado — NotebookLM
+> Quiz, podcast, mapa mental e cartões didáticos deste módulo.
+> [Abrir notebook completo](https://notebooklm.google.com/notebook/PLACEHOLDER_LOGICA_NOTEBOOK)
+<!-- notebooklm-recursos -->
+
 ## Por que isso importa?
 
 Você já ouviu alguém concluir "logo, todos são assim" a partir de uma única experiência? Ou viu uma cadeia de raciocínio impecável chegar a uma conclusão absurda porque uma premissa estava errada? A diferença entre persuasão e demonstração está aqui. O raciocínio dedutivo é a operação pela qual o intelecto *extrai* uma verdade nova a partir de verdades já conhecidas, desde que a forma do encadeamento seja correta.

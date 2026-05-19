@@ -1,5 +1,11 @@
 # [01-00] Módulo 1 — Concepção (Primeira Operação do Intelecto)
 
+<!-- notebooklm-recursos -->
+> ### Recursos de Aprendizado — NotebookLM
+> Quiz, podcast, mapa mental e cartões didáticos deste módulo.
+> [Abrir notebook completo](https://notebooklm.google.com/notebook/PLACEHOLDER_LOGICA_NOTEBOOK)
+<!-- notebooklm-recursos -->
+
 ## Por que isso importa?
 
 Você já tentou explicar uma ideia importante e percebeu, no meio da frase, que não sabia exatamente o que queria dizer? Ou ouviu alguém usar uma palavra com total confiança, mas, quando pediram precisão, a conversa desmoronou? Esses momentos não são falhas de eloquência. São falhas de *concepção*: o intelecto ainda não captou com clareza o que aquilo é.
